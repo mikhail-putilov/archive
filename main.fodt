@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2015-03-21T21:14:41</meta:creation-date><meta:generator>LibreOffice/3.5$Linux_X86_64 LibreOffice_project/350m1$Build-2</meta:generator><dc:date>2015-03-23T14:50:32</dc:date><meta:editing-duration>PT6H35M36S</meta:editing-duration><meta:editing-cycles>11</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="11" meta:page-count="4" meta:paragraph-count="52" meta:word-count="1380" meta:character-count="10681" meta:non-whitespace-character-count="9357"/></office:meta>
+ <office:meta><meta:creation-date>2015-03-21T21:14:41</meta:creation-date><meta:generator>LibreOffice/3.5$Linux_X86_64 LibreOffice_project/350m1$Build-2</meta:generator><dc:date>2015-03-23T17:18:35</dc:date><meta:editing-duration>PT9H3M39S</meta:editing-duration><meta:editing-cycles>14</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="39" meta:page-count="1" meta:paragraph-count="65" meta:word-count="1669" meta:character-count="12650" meta:non-whitespace-character-count="11028"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">82762</config:config-item>
-   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">69744</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">1002</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">24158</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">23761</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">24185</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">true</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">16799</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">94040</config:config-item>
-     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">82762</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">24156</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">106521</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">8251</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">88166</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">1002</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">69744</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">25158</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">93927</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
-     <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
@@ -349,19 +349,30 @@
   </style:style>
   <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3"/>
   <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4"/>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5"/>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6"/>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
+   <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:text-indent="-0.25in" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties fo:language="ru" fo:country="RU"/>
   </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:language="ru" fo:country="RU"/>
   </style:style>
-  <style:style style:name="P14" style:family="paragraph">
+  <style:style style:name="P17" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" fo:line-height="100%" fo:text-align="start" fo:text-indent="0in" style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="lr-tb">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties fo:hyphenate="false"/>
   </style:style>
-  <style:style style:name="P15" style:family="paragraph">
+  <style:style style:name="P18" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" fo:line-height="100%" fo:text-align="start" fo:text-indent="0in" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties fo:hyphenate="false"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" fo:line-height="100%" fo:text-align="start" fo:text-indent="0in" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb">
     <style:tab-stops/>
    </style:paragraph-properties>
@@ -390,6 +401,9 @@
   </style:style>
   <style:style style:name="T8" style:family="text">
    <style:text-properties style:font-name="Liberation Serif" style:font-name-asian="Droid Sans Fallback" style:font-name-complex="FreeSans"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-position="0% 100%" style:font-name="Andale Sans UI" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="ru" fo:country="RU" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Formula">
    <style:graphic-properties style:vertical-pos="from-top" draw:ole-draw-aspect="1"/>
@@ -602,6 +616,110 @@
     </style:list-level-properties>
    </text:list-level-style-number>
   </text:list-style>
+  <text:list-style style:name="L5">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L6">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-prefix=" " style:num-suffix=" " style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="2">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="3">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="4">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="5">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="6">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="7">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="8">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="9">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="10">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin="0.7874in" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
     <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -622,7 +740,7 @@
   <style:master-page style:name="Footnote" style:page-layout-name="pm2"/>
  </office:master-styles>
  <office:body>
-  <office:text text:use-soft-page-breaks="true">
+  <office:text>
    <text:sequence-decls>
     <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
@@ -649,32 +767,32 @@
          <text:p text:style-name="Footnote">Например, в системе верстки <text:span text:style-name="T3">TeX</text:span> есть директива \<text:span text:style-name="T3">input</text:span>{<text:span text:style-name="T3">filename</text:span>} позволяющая включить в данный файл содержимое <text:span text:style-name="T3">filename.</text:span> Если в начале редактирования, в файле №1 содержалась ссылка \<text:span text:style-name="T3">input</text:span>{filename2}, а в следующий момент времени, два писателя изменили бы файлы следующим образом: в первом файле ссылка стирается, а во втором файле появляется ссылка на первый файл \<text:span text:style-name="T3">input</text:span>{filename1}, то произошло бы противоречие. Таким образом монопольный доступ до файла не защитил от того, что конечный документ не транслируется.</text:p></text:note-body></text:note></text:span><text:span text:style-name="T4">. Блокирующая система бессильна в предотвращении проблемы — вместо этого она обеспечила ложное чувство безопасности у пользователей.</text:span></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P2"><text:soft-page-break/>Это не является <office:annotation>
+   <text:p text:style-name="P2">Это не является <office:annotation>
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-22T00:38:08</dc:date>
-     <text:p text:style-name="P14"><text:span text:style-name="T2">Определить критерий заранее</text:span></text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T2">Определить критерий заранее</text:span></text:p>
     </office:annotation>оптимальным решением задачи редактирования текста в режиме реального времени.</text:p>
    <text:h text:style-name="P7" text:outline-level="2">Зеркализация команд редактирования </text:h>
    <text:p text:style-name="P3">Данный подход основан на пересылке всех действий <office:annotation>
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-22T10:54:49</dc:date>
-     <text:p text:style-name="P15"><text:span text:style-name="T2">Описать в начале все определения</text:span></text:p>
+     <text:p text:style-name="P19"><text:span text:style-name="T2">Описать в начале все определения</text:span></text:p>
     </office:annotation>писателя и воспроизведении их на остальных компьютерах. На данный момент, самый популярные алгоритмы данного подхода основаны на <office:annotation>
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-22T00:41:59</dc:date>
-     <text:p text:style-name="P14"><text:span text:style-name="T2">Линк на вейв протокол</text:span></text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T2">Линк на вейв протокол</text:span></text:p>
     </office:annotation><text:span text:style-name="T3">Operation</text:span> <text:span text:style-name="T3">Transformation</text:span> – концепции, разработанной компанией Google в ныне закрытом проекте <office:annotation>
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-22T00:44:54</dc:date>
-     <text:p text:style-name="P14"><text:span text:style-name="T2">Добавить футноут про гугл вейв и его историю. кек</text:span></text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T2">Добавить футноут про гугл вейв и его историю. кек</text:span></text:p>
     </office:annotation><text:span text:style-name="T3">Wave.</text:span> Алгоритмы данного подхода объявляют состоянием системы пару: (текст, история действии). Чтобы разрешить <office:annotation>
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-22T00:47:48</dc:date>
-     <text:p text:style-name="P14"><text:span text:style-name="T2">Задать основную задачу синхронизации как соединение двух версий в одну дифмачпач кароч</text:span></text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T2">Задать основную задачу синхронизации как соединение двух версий в одну дифмачпач кароч</text:span></text:p>
     </office:annotation>основную задачу синхронизации, необходимо и достаточно, чтобы каждый воспроизвел историю действий от начала до конца. Сложность данного подхода возникает в тот момент, когда возникает потребность сохранять общую историю <office:annotation>
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-22T11:41:16</dc:date>
-     <text:p text:style-name="P15"><text:span text:style-name="T2">Вставить про гугл вейф и как они маньячат мясорубку истории</text:span></text:p>
+     <text:p text:style-name="P19"><text:span text:style-name="T2">Вставить про гугл вейф и как они маньячат мясорубку истории</text:span></text:p>
     </office:annotation>действий.</text:p>
    <text:p text:style-name="P3">Сохранение истории действий писателя влечет за собой зависимость системы синхронизации от самих действий писателя. В общем случае, различное редактирование текста может быть выполнено не только человеком, но и скриптом, либо системой контроля версий. Предугадать и написать реализацию под каждый вид редактирования текста представляется крайне сложной задачей.</text:p>
    <text:p text:style-name="P3">Так же различные редакторы, очевидно, предоставляют различные возможности редактирования. Простые редакторы ограничиваются лишь вставками и удалением, а более современные предоставляют такие инструменты как множественные курсоры, авто-форматирование и пр. Поэтому используя данный подход, реализация синхронизации будет сильно зависеть от возможностей самого редактора, что является ограничивающим фактором.</text:p>
@@ -694,7 +812,7 @@
      <text:p text:style-name="P9">Хранилище производит слияние всех текстов в итоговую копию и отправляет всем писателям.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P3"><text:soft-page-break/>Основной плюс данного подхода заключаются в отсутствии блокировок на редактирование. Каждый писатель независимо ото всех редактирует свою личную копию файла, а поэтому нет необходимости вносить примитивы синхронизации на стадии редактирования текста. </text:p>
+   <text:p text:style-name="P3">Основной плюс данного подхода заключаются в отсутствии блокировок на редактирование. Каждый писатель независимо ото всех редактирует свою личную копию файла, а поэтому нет необходимости вносить примитивы синхронизации на стадии редактирования текста. </text:p>
    <text:p text:style-name="P3">Таким образом, редактирование файла одновременно двумя и более писателями возможно, а синхронизация происходит уже после внесения правок. Если какие-то случились конфликты, система не может верно слить изменения, следовательно каждый писатель подвержен риску конфликта с другими участниками<text:note text:id="ftn2" text:note-class="footnote"><text:note-citation>2</text:note-citation><text:note-body>
       <text:p text:style-name="Footnote">В реальной жизни, данный подход используется в системе контроля версий Subversion. Согласно заверениям разработчиков, ситуаций, когда происходят конфликты, мало и в большинстве случаев работает автоматическое слияние. На момент 2015 года, система контроля Subversion является второй по популярности среди подобных систем.</text:p></text:note-body></text:note>.</text:p>
    <text:p text:style-name="P3">Легко понять, что чем чаще будут производиться слияния, тем меньше потенциальных конфликтов может произойти, а значит тем меньше «накладных расходов» будет потрачено на синхронизацию.</text:p>
@@ -704,13 +822,17 @@
    <text:p text:style-name="Text_20_body">Следовательно, данная стратегия так же не обеспечивает <office:annotation>
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-22T13:22:19</dc:date>
-     <text:p text:style-name="P15"><text:span text:style-name="T2">Обозначить требования теоретически</text:span></text:p>
+     <text:p text:style-name="P19"><text:span text:style-name="T2">Обозначить требования теоретически</text:span></text:p>
     </office:annotation>все требования.</text:p>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1">Улучшенная стратегия «копирование — изменение — слияние»</text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><office:annotation>
+     <dc:creator>Unknown Author</dc:creator>
+     <dc:date>2015-03-23T17:13:34</dc:date>
+     <text:p text:style-name="P18"><text:span text:style-name="T9">Dual Shadow Method описать позднее как алтернативный</text:span></text:p>
+    </office:annotation>Улучшенная стратегия «копирование — изменение — слияние»</text:h>
    <text:p text:style-name="Text_20_body">Прежде чем начать описывать содержательную часть, введем несколько определений, для более легкого описания происходящего.</text:p>
-   <text:p text:style-name="Text_20_body">Текст — это строка, в программистском смысле этого слова. Все переносы строк кодируются специальным символом \n. В дальнейшем нам понадобиться понимание того, что можно посчитать дельту между двумя текстами: дельта между текстами №1 и №2, это разница, или совокупность удалений и вставок, которые необходимо воспроизвести, чтобы текст №1 превратился в текст №2. Например: текст №1 это «Жираф», а №2 это «жираф». Тогда разница между ними будет: удаление первого символа, вставка буквы «ж» перед «и». </text:p>
-   <text:p text:style-name="Text_20_body">Вообще говоря, разница (или в дальнейшем просто дельта) не единственна. Но в дальнейших выкладках, можно считать, что она минимальна, или другими словами, расстояние Левенштейна <text:s/>минимально. </text:p>
-   <text:p text:style-name="Text_20_body">Если рассмотреть «копирование — изменение — слияние» поближе, можно выделить основные <text:soft-page-break/>моменты:</text:p>
+   <text:p text:style-name="Text_20_body">Текст — это строка, в программистском смысле этого слова. Все переносы строк кодируются специальным символом «\n». Строки можно вычитать, получая при этом некоторый объект-дельту между двумя строками: дельта между текстами №1 и №2, это совокупность удалений и вставок и замен, которые необходимо воспроизвести, чтобы текст №1 превратился в текст №2. Например: пусть текст №1 это «Жираф», а №2 это «жираф». Тогда разница между ними будет: удалить первый символ, вставить букву «ж» перед «и». </text:p>
+   <text:p text:style-name="Text_20_body">Очевидно, что разница между двумя текстами (или в дальнейшем просто дельта) не единственна. В дальнейших выкладках, можно считать, что она минимальна, или другими словами, расстояние Левенштейна минимально, поскольку на данном этапе это не важно. </text:p>
+   <text:p text:style-name="Text_20_body">Если рассмотреть «копирование — изменение — слияние», можно выделить основные моменты:</text:p>
    <text:list xml:id="list620419354" text:style-name="L3">
     <text:list-item>
      <text:p text:style-name="P10">Редактирование происходит над локальной копией. Это позволяет избавиться от ожидания других писателей.</text:p>
@@ -723,7 +845,7 @@
         <text:p text:style-name="Footnote">Имеется виду undo/redo последовательность действий.</text:p></text:note-body></text:note>).</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Text_20_body">Для того, чтобы обеспечить требования задачи, необходимо «стараться» держать локальную копию файла и централизованную как можно «ближе». Для этого, вне зависимости от действий писателя, будем производить синхронизацию текущего состояния текста с остальными писателями (либо центральным координатором) с каким-то периодом <draw:frame draw:style-name="fr1" draw:name="Object5" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1898in" svg:height="0.1839in" draw:z-index="4"><draw:object>
+   <text:p text:style-name="Text_20_body">Для того, чтобы обеспечить требования задачи, необходимо «стараться» держать локальную копию файла и централизованную как можно «ближе» в терминах расстояния Левенштейна. Для этого, вне зависимости от действий писателя, будем производить синхронизацию текущего состояния текста с остальными писателями (либо центральным координатором) с каким-то периодом <draw:frame draw:style-name="fr1" draw:name="Object5" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1898in" svg:height="0.1846in" draw:z-index="4"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -742,8 +864,8 @@
       </office:binary-data>
      </draw:image>
     </draw:frame>.<text:note text:id="ftn0" text:note-class="footnote"><text:note-citation>4</text:note-citation><text:note-body>
-      <text:p text:style-name="Footnote">Этого можно добиться, запустив поток, отвечающий всецело за синхронизацию. Либо использовать подход асинхронного программирования вместе с таймером.</text:p></text:note-body></text:note></text:p>
-   <text:p text:style-name="Text_20_body">Поскольку отправлять весь файл в хранилище через период <draw:frame draw:style-name="fr1" draw:name="Object6" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1898in" svg:height="0.1839in" draw:z-index="5"><draw:object>
+      <text:p text:style-name="Footnote">Этого можно добиться, запустив отдельный поток, отвечающий всецело за синхронизацию. Либо использовать подход асинхронного программирования и запускать синхронизацию лишь по таймеру в моменты времени, когда ничего не происходит.</text:p></text:note-body></text:note></text:p>
+   <text:p text:style-name="Text_20_body">Поскольку отправлять весь файл в хранилище через период <draw:frame draw:style-name="fr1" draw:name="Object6" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1898in" svg:height="0.1846in" draw:z-index="5"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -761,7 +883,7 @@
        AAD//wEAVACMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
       </office:binary-data>
      </draw:image>
-    </draw:frame> является дорогостоящей операцией, потребуем, чтобы расчет дельты <text:span text:style-name="T7"><draw:frame draw:style-name="fr1" draw:name="Object7" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1902in" svg:height="0.1839in" draw:z-index="6"><draw:object>
+    </draw:frame> является дорогостоящей операцией, потребуем, чтобы расчет дельты <text:span text:style-name="T7"><draw:frame draw:style-name="fr1" draw:name="Object7" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1902in" svg:height="0.1846in" draw:z-index="6"><draw:object>
        <math xmlns="http://www.w3.org/1998/Math/MathML">
         <semantics>
          <mrow>
@@ -779,7 +901,7 @@
         AAAAAP//AQAGIowAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
        </office:binary-data>
       </draw:image>
-     </draw:frame></text:span><text:span text:style-name="T8"> </text:span>производился уже на компьютерах писателей. Для этого необходимо держать последнюю версию текста <draw:frame draw:style-name="fr1" draw:name="Object11" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1744in" svg:height="0.1839in" draw:z-index="10"><draw:object>
+     </draw:frame></text:span><text:span text:style-name="T8"> </text:span>производился уже на компьютерах писателей. Для этого необходимо держать последнюю версию текста <draw:frame draw:style-name="fr1" draw:name="Object11" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1744in" svg:height="0.1846in" draw:z-index="10"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -798,7 +920,7 @@
       </office:binary-data>
      </draw:image>
     </draw:frame>, считающейся «правильной» для всех (в Subversion правильная версия — централизованная итоговая копия, которая получалась сливанием). Например, если редактирование текста только началось и файл пуст, то «правильная» копия текста у всех писателей — это пустая строка. </text:p>
-   <text:p text:style-name="Text_20_body">В каждый момент времени, <draw:frame draw:style-name="fr1" draw:name="Object3" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.4543in" svg:height="0.1839in" draw:z-index="1"><draw:object>
+   <text:p text:style-name="Text_20_body">В каждый момент времени, <draw:frame draw:style-name="fr1" draw:name="Object3" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.4543in" svg:height="0.1846in" draw:z-index="1"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -826,7 +948,7 @@
        jAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkAjAABAAAAAAA=
       </office:binary-data>
      </draw:image>
-    </draw:frame>, <draw:frame draw:style-name="fr1" draw:name="Object4" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.8602in" svg:height="0.1839in" draw:z-index="2"><draw:object>
+    </draw:frame>, <draw:frame draw:style-name="fr1" draw:name="Object4" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.8618in" svg:height="0.1846in" draw:z-index="2"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -866,7 +988,7 @@
        jAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkAjAABAAAAAAA=
       </office:binary-data>
      </draw:image>
-    </draw:frame>каждый писатель имеет текст <draw:frame draw:style-name="fr1" draw:name="Object1" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.3598in" svg:height="0.2091in" draw:z-index="0"><draw:object>
+    </draw:frame>каждый писатель имеет текст <draw:frame draw:style-name="fr1" draw:name="Object1" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.3598in" svg:height="0.2098in" draw:z-index="0"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -916,26 +1038,25 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAdoDAADU
-       AQAAHQAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAADZAwAA0wEAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAdkDAADV
+       AQAAHQAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAADYAwAA1AEAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRp
-       b24gU2VyaWYAAAAAAACmAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
-       AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAagAAAHIBAAABAHR1AAAA
+       b24gU2VyaWYAAAAAAACnAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
+       AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAagAAAHIBAAABAHR2AAAA
        AAD//wEAdACMAAEAAAAAAIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAA
-       AAAAAKYBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEA
-       BQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAAAJAQAAcgEAAAEAAAASIk8BAAAAAP//AQAS
+       AAAAAKcBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEA
+       BQAAAP////8AhgABAAQAAAAAAAAAcgACABoAAAAJAQAAcgEAAAEAAAASIlABAAAAAP//AQAS
        IowAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAA
-       AAAApgEAAAAAAwAAAAUAAAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAF
+       AAAApwEAAAAAAwAAAAUAAAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAF
        AAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAGECAAByAQAAAQBU6wAAAAAA//8BAFQAjAAB
        AAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkAjAABAAAAAAA=
       </office:binary-data>
      </draw:image>
     </draw:frame>.</text:p>
-   <text:p text:style-name="Text_20_body">Таким образом, почитав дельту </text:p>
-   <text:p text:style-name="Text_20_body">Обозначим основные шаги алгоритма для одного писателя:</text:p>
+   <text:p text:style-name="Text_20_body">Не обращая пока внимания на обработку ошибок, которые могу возникнуть во время работы, опишем основные шаги алгоритма. Для одного писателя:</text:p>
    <text:list xml:id="list1301739532" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P11">В момент времени <draw:frame draw:style-name="fr1" draw:name="Object8" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1374in" svg:height="0.1839in" draw:z-index="7"><draw:object>
+     <text:p text:style-name="P11">В момент времени <draw:frame draw:style-name="fr1" draw:name="Object8" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1374in" svg:height="0.1846in" draw:z-index="7"><draw:object>
         <math xmlns="http://www.w3.org/1998/Math/MathML">
          <semantics>
           <mrow>
@@ -956,25 +1077,77 @@
       </draw:frame>запускается процедура синхронизации;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P11">Считается дельта<draw:frame draw:style-name="fr1" draw:name="Object9" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.1902in" svg:height="0.128in" draw:z-index="8"><draw:object>
+     <text:p text:style-name="P11">Считается дельта<draw:frame draw:style-name="fr1" draw:name="Object9" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4571in" svg:height="0.1807in" draw:z-index="8"><draw:object>
         <math xmlns="http://www.w3.org/1998/Math/MathML">
          <semantics>
           <mrow>
-           <mo stretchy="false">Δ</mo>
+           <msub>
+            <mo stretchy="false">Δ</mo>
+            <mrow>
+             <mi>t</mi>
+             <mi>,</mi>
+             <mrow>
+              <mi>t</mi>
+              <mo stretchy="false">−</mo>
+              <mi>T</mi>
+             </mrow>
+            </mrow>
+           </msub>
           </mrow>
-          <annotation encoding="StarMath 5.0">%DELTA </annotation>
+          <annotation encoding="StarMath 5.0">%DELTA_{t, t-T}</annotation>
          </semantics>
         </math>
        </draw:object><draw:image>
-        <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAeMBAABF
-         AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAADiAQAARAEAAJUA
+        <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAYkEAADJ
+         AQAAMgAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACIBAAAyAEAAJUA
          AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1i
          b2wAAAAAAACmAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
          hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAagAAACMBAAABAAAAlAMCAQAAAAD/
-         /wEAlAOMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
+         /wEAlAOMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJp
+         ZgAAAAAAAP0AAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCH
+         AAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACNAQAAjQEAAAEAdEYAAAAAAP//AQB0
+         AIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAA
+         AAAA/QAAAAAAAwAAAAUAAAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAF
+         AAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAPcBAACNAQAAAQAsPwAAAAAA//8BACwAjAAB
+         AAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAAD9
+         AAAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/
+         ////AIYAAQAEAAAAAAAAAHIAAgAXAAAARgIAAI0BAAABAHRGAAAAAAD//wEAdACMAAEAAAAA
+         AIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAP0AAAD//wAAAAAF
+         AAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQA
+         AAAAAAAAcgACABoAAACwAgAAjQEAAAEAAAASIskAAAAAAP//AQASIowAAQAAAAAAiwABAAIA
+         AAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAA/QAAAAAAAwAAAAUA
+         AAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAA
+         AAAAAAByAAIAFwAAAIQDAACNAQAAAQBUjQAAAAAA//8BAFQAjAABAAAAAACVAAEABAAAAAAA
+         AACWAAEAAgAAAAkAjAABAAAAAAA=
         </office:binary-data>
        </draw:image>
-      </draw:frame>между текущим текстом и <draw:frame draw:style-name="fr1" draw:name="Object10" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.3598in" svg:height="0.2091in" draw:z-index="9"><draw:object>
+      </draw:frame>между текущим текстом <draw:frame draw:style-name="fr1" draw:name="Object12" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.2354in" svg:height="0.2098in" draw:z-index="11"><draw:object>
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <semantics>
+          <mrow>
+           <msub>
+            <mi>C</mi>
+            <mrow>
+             <mi>t</mi>
+            </mrow>
+           </msub>
+          </mrow>
+          <annotation encoding="StarMath 5.0">C_{t}</annotation>
+         </semantics>
+        </math>
+       </draw:object><draw:image>
+        <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAVYCAAAU
+         AgAAFgAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAABVAgAAEwIAAJUA
+         AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRp
+         b24gU2VyaWYAAAAAAACnAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
+         AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAagAAAHIBAAABAEMaAQAA
+         AAD//wEAQwCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBT
+         ZXJpZgAAAAAAAP0AAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAA
+         AQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACNAQAA3AEAAAEAdEYAAAAAAP//
+         AQB0AIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
+        </office:binary-data>
+       </draw:image>
+      </draw:frame> и <draw:frame draw:style-name="fr1" draw:name="Object10" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.3598in" svg:height="0.2098in" draw:z-index="9"><draw:object>
         <math xmlns="http://www.w3.org/1998/Math/MathML">
          <semantics>
           <mrow>
@@ -993,11 +1166,11 @@
          </semantics>
         </math>
        </draw:object><draw:image>
-        <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZEDAAAT
-         AgAAJAAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACQAwAAEgIAAJUA
+        <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZIDAAAU
+         AgAAJAAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACRAwAAEwIAAJUA
          AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRp
-         b24gU2VyaWYAAAAAAACmAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
-         AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAagAAAHIBAAABAFPTAAAA
+         b24gU2VyaWYAAAAAAACnAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
+         AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAagAAAHIBAAABAFPUAAAA
          AAD//wEAUwCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBT
          ZXJpZgAAAAAAAP0AAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAA
          AQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABYAQAA3AEAAAEAdEYAAAAAAP//
@@ -1010,13 +1183,1037 @@
          AJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
         </office:binary-data>
        </draw:image>
-      </draw:frame></text:p>
+      </draw:frame>;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P11">Полученный результат сериализуется и отправляется другим участникам;</text:p>
+     <text:p text:style-name="P11">Полученный результат сериализуется и отправляется в хранилище;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P11">Присваивается<draw:frame draw:style-name="fr1" draw:name="Object13" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.5055in" svg:height="0.2098in" draw:z-index="12"><draw:object>
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <semantics>
+          <mrow>
+           <mrow>
+            <msub>
+             <mi>S</mi>
+             <mrow>
+              <mi>t</mi>
+             </mrow>
+            </msub>
+            <mo stretchy="false">=</mo>
+            <msub>
+             <mi>C</mi>
+             <mrow>
+              <mi>t</mi>
+             </mrow>
+            </msub>
+           </mrow>
+          </mrow>
+          <annotation encoding="StarMath 5.0">S_{t} = C_{t}</annotation>
+         </semantics>
+        </math>
+       </draw:object><draw:image>
+        <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAQQFAAAU
+         AgAAKwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAAADBQAAEwIAAJUA
+         AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRp
+         b24gU2VyaWYAAAAAAACnAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
+         AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAagAAAHIBAAABAFPUAAAA
+         AAD//wEAUwCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBT
+         ZXJpZgAAAAAAAP0AAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAA
+         AQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABYAQAA3AEAAAEAdEYAAAAAAP//
+         AQB0AIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAA
+         pwEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA
+         /////wCGAAEABAAAAAAAAAByAAIAGgAAAMIBAAByAQAAAQAAAD0AUAEAAAAA//8BAD0AjAAB
+         AAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAACn
+         AQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/
+         ////AIYAAQAEAAAAAAAAAHIAAgAXAAAAGgMAAHIBAAABAEMaAQAAAAD//wEAQwCMAAEAAAAA
+         AIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAP0AAAAA
+         AAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8A
+         hgABAAQAAAAAAAAAcgACABcAAAA9BAAA3AEAAAEAdEYAAAAAAP//AQB0AIwAAQAAAAAAlQAB
+         AAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
+        </office:binary-data>
+       </draw:image>
+      </draw:frame>(в дальнейшем мы поясним, на каком основании это можно сделать).</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Text_20_body">Таким образом осталось понять, как применять </text:p>
+   <text:p text:style-name="Text_20_body">Таким образом, мы обозначили процедуру, которая гарантирует, что при редактировании текста, об этом будут уведомлено хранилище, при этом хранилище может воссоздать текст <draw:frame draw:style-name="fr1" draw:name="Object15" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.2354in" svg:height="0.2098in" draw:z-index="14"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+       <semantics>
+        <mrow>
+         <msub>
+          <mi>C</mi>
+          <mi>t</mi>
+         </msub>
+        </mrow>
+        <annotation encoding="StarMath 5.0">C_t</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAVYCAAAU
+       AgAAFgAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAABVAgAAEwIAAJUA
+       AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRp
+       b24gU2VyaWYAAAAAAACnAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
+       AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAagAAAHIBAAABAEMaAQAA
+       AAD//wEAQwCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBT
+       ZXJpZgAAAAAAAP0AAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAA
+       AQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACNAQAA3AEAAAEAdEYAAAAAAP//
+       AQB0AIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
+      </office:binary-data>
+     </draw:image>
+    </draw:frame> применяя дельту к исходному тексту <draw:frame draw:style-name="fr1" draw:name="Object19" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.3598in" svg:height="0.2098in" draw:z-index="18"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+       <semantics>
+        <mrow>
+         <msub>
+          <mi>S</mi>
+          <mrow>
+           <mrow>
+            <mi>t</mi>
+            <mo stretchy="false">−</mo>
+            <mi>T</mi>
+           </mrow>
+          </mrow>
+         </msub>
+        </mrow>
+        <annotation encoding="StarMath 5.0">S_{t-T}</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZIDAAAU
+       AgAAJAAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACRAwAAEwIAAJUA
+       AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRp
+       b24gU2VyaWYAAAAAAACnAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
+       AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAagAAAHIBAAABAFPUAAAA
+       AAD//wEAUwCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBT
+       ZXJpZgAAAAAAAP0AAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAA
+       AQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABYAQAA3AEAAAEAdEYAAAAAAP//
+       AQB0AIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAA
+       /QAAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA
+       /////wCGAAEABAAAAAAAAAByAAIAGgAAAMIBAADcAQAAAQAAABIiyQAAAAAA//8BABIijAAB
+       AAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAAD9
+       AAAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/
+       ////AIYAAQAEAAAAAAAAAHIAAgAXAAAAewIAANwBAAABAFSNAAAAAAD//wEAVACMAAEAAAAA
+       AJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
+      </office:binary-data>
+     </draw:image>
+    </draw:frame>. Остается обозначить, каким образом принимать дельты, чтобы не нарушить консистентность текста <draw:frame draw:style-name="fr1" draw:name="Object14" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1744in" svg:height="0.1846in" draw:z-index="13"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+       <semantics>
+        <mrow>
+         <mi>S</mi>
+        </mrow>
+        <annotation encoding="StarMath 5.0">S</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAbsBAADV
+       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAAC6AQAA1AEAAJUA
+       AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRp
+       b24gU2VyaWYAAAAAAACnAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
+       AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAagAAAHIBAAABAFPUAAAA
+       AAD//wEAUwCMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
+      </office:binary-data>
+     </draw:image>
+    </draw:frame> во всей системе:</text:p>
+   <text:list xml:id="list345791823" text:style-name="L5">
+    <text:list-item>
+     <text:p text:style-name="P12">Хранилище принимает дельту<draw:frame draw:style-name="fr1" draw:name="Object16" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4571in" svg:height="0.1807in" draw:z-index="15"><draw:object>
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <semantics>
+          <mrow>
+           <msub>
+            <mo stretchy="false">Δ</mo>
+            <mrow>
+             <mi>t</mi>
+             <mi>,</mi>
+             <mrow>
+              <mi>t</mi>
+              <mo stretchy="false">−</mo>
+              <mi>T</mi>
+             </mrow>
+            </mrow>
+           </msub>
+          </mrow>
+          <annotation encoding="StarMath 5.0">%DELTA_{t,t-T}</annotation>
+         </semantics>
+        </math>
+       </draw:object><draw:image>
+        <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAYkEAADK
+         AQAAMgAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACIBAAAyQEAAJUA
+         AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1i
+         b2wAAAAAAACnAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
+         hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAagAAACMBAAABAAAAlAMDAQAAAAD/
+         /wEAlAOMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJp
+         ZgAAAAAAAP0AAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCH
+         AAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACNAQAAjQEAAAEAdEYAAAAAAP//AQB0
+         AIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAA
+         AAAA/QAAAAAAAwAAAAUAAAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAF
+         AAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAPcBAACNAQAAAQAsPwAAAAAA//8BACwAjAAB
+         AAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAAD9
+         AAAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/
+         ////AIYAAQAEAAAAAAAAAHIAAgAXAAAARgIAAI0BAAABAHRGAAAAAAD//wEAdACMAAEAAAAA
+         AIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAP0AAAD//wAAAAAF
+         AAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQA
+         AAAAAAAAcgACABoAAACwAgAAjQEAAAEAAAASIskAAAAAAP//AQASIowAAQAAAAAAiwABAAIA
+         AAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAA/QAAAAAAAwAAAAUA
+         AAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAA
+         AAAAAAByAAIAFwAAAIQDAACNAQAAAQBUjQAAAAAA//8BAFQAjAABAAAAAACVAAEABAAAAAAA
+         AACWAAEAAgAAAAkAjAABAAAAAAA=
+        </office:binary-data>
+       </draw:image>
+      </draw:frame>;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P12">Применяет дельту к <draw:frame draw:style-name="fr1" draw:name="Object17" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.3598in" svg:height="0.2098in" draw:z-index="16"><draw:object>
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <semantics>
+          <mrow>
+           <msub>
+            <mi>S</mi>
+            <mrow>
+             <mrow>
+              <mi>t</mi>
+              <mo stretchy="false">−</mo>
+              <mi>T</mi>
+             </mrow>
+            </mrow>
+           </msub>
+          </mrow>
+          <annotation encoding="StarMath 5.0">S_{t-T}</annotation>
+         </semantics>
+        </math>
+       </draw:object><draw:image>
+        <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZIDAAAU
+         AgAAJAAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACRAwAAEwIAAJUA
+         AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRp
+         b24gU2VyaWYAAAAAAACnAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
+         AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAagAAAHIBAAABAFPUAAAA
+         AAD//wEAUwCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBT
+         ZXJpZgAAAAAAAP0AAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAA
+         AQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABYAQAA3AEAAAEAdEYAAAAAAP//
+         AQB0AIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAA
+         /QAAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA
+         /////wCGAAEABAAAAAAAAAByAAIAGgAAAMIBAADcAQAAAQAAABIiyQAAAAAA//8BABIijAAB
+         AAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAAD9
+         AAAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/
+         ////AIYAAQAEAAAAAAAAAHIAAgAXAAAAewIAANwBAAABAFSNAAAAAAD//wEAVACMAAEAAAAA
+         AJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
+        </office:binary-data>
+       </draw:image>
+      </draw:frame>, получая <draw:frame draw:style-name="fr1" draw:name="Object18" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="1.4181in" svg:height="0.2098in" draw:z-index="17"><draw:object>
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <semantics>
+          <mrow>
+           <mrow>
+            <mrow>
+             <msub>
+              <mi>C</mi>
+              <mi>t</mi>
+             </msub>
+             <mo stretchy="false">=</mo>
+             <msub>
+              <mi>S</mi>
+              <mi>t</mi>
+             </msub>
+            </mrow>
+            <mo stretchy="false">=</mo>
+            <mrow>
+             <msub>
+              <mi>S</mi>
+              <mrow>
+               <mrow>
+                <mi>t</mi>
+                <mo stretchy="false">−</mo>
+                <mi>T</mi>
+               </mrow>
+              </mrow>
+             </msub>
+             <mo stretchy="false">+</mo>
+             <msub>
+              <mo stretchy="false">Δ</mo>
+              <mrow>
+               <mi>t</mi>
+               <mi>,</mi>
+               <mrow>
+                <mi>t</mi>
+                <mo stretchy="false">−</mo>
+                <mi>T</mi>
+               </mrow>
+              </mrow>
+             </msub>
+            </mrow>
+           </mrow>
+          </mrow>
+          <annotation encoding="StarMath 5.0">C_t = S_t = S_{t-T} + %DELTA_{t,t-T}</annotation>
+         </semantics>
+        </math>
+       </draw:object><draw:image>
+        <office:binary-data>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
+         lgABAAIAAAAJAIwAAQAAAAAA
+        </office:binary-data>
+       </draw:image>
+      </draw:frame>;</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P12">Если предыдущие шаги выполнены без ошибок, отправляет всем остальным участникам <draw:frame draw:style-name="fr1" draw:name="Object20" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4571in" svg:height="0.1807in" draw:z-index="19"><draw:object>
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <semantics>
+          <mrow>
+           <msub>
+            <mo stretchy="false">Δ</mo>
+            <mrow>
+             <mi>t</mi>
+             <mi>,</mi>
+             <mrow>
+              <mi>t</mi>
+              <mo stretchy="false">−</mo>
+              <mi>T</mi>
+             </mrow>
+            </mrow>
+           </msub>
+          </mrow>
+          <annotation encoding="StarMath 5.0">%DELTA_{t,t-T}</annotation>
+         </semantics>
+        </math>
+       </draw:object><draw:image>
+        <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAYkEAADK
+         AQAAMgAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACIBAAAyQEAAJUA
+         AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1i
+         b2wAAAAAAACnAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
+         hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAagAAACMBAAABAAAAlAMDAQAAAAD/
+         /wEAlAOMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJp
+         ZgAAAAAAAP0AAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCH
+         AAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACNAQAAjQEAAAEAdEYAAAAAAP//AQB0
+         AIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAA
+         AAAA/QAAAAAAAwAAAAUAAAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAF
+         AAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAPcBAACNAQAAAQAsPwAAAAAA//8BACwAjAAB
+         AAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAAD9
+         AAAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/
+         ////AIYAAQAEAAAAAAAAAHIAAgAXAAAARgIAAI0BAAABAHRGAAAAAAD//wEAdACMAAEAAAAA
+         AIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAP0AAAD//wAAAAAF
+         AAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQA
+         AAAAAAAAcgACABoAAACwAgAAjQEAAAEAAAASIskAAAAAAP//AQASIowAAQAAAAAAiwABAAIA
+         AAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAA/QAAAAAAAwAAAAUA
+         AAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAA
+         AAAAAAByAAIAFwAAAIQDAACNAQAAAQBUjQAAAAAA//8BAFQAjAABAAAAAACVAAEABAAAAAAA
+         AACWAAEAAgAAAAkAjAABAAAAAAA=
+        </office:binary-data>
+       </draw:image>
+       <svg:desc>formula</svg:desc>
+      </draw:frame>.</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="Text_20_body">Обяжем каждого, кому отправили дельту <draw:frame draw:style-name="fr1" draw:name="Object21" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4571in" svg:height="0.1807in" draw:z-index="20"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+       <semantics>
+        <mrow>
+         <msub>
+          <mo stretchy="false">Δ</mo>
+          <mrow>
+           <mi>t</mi>
+           <mi>,</mi>
+           <mrow>
+            <mi>t</mi>
+            <mo stretchy="false">−</mo>
+            <mi>T</mi>
+           </mrow>
+          </mrow>
+         </msub>
+        </mrow>
+        <annotation encoding="StarMath 5.0">%DELTA_{t,t-T}</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAYkEAADK
+       AQAAMgAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACIBAAAyQEAAJUA
+       AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1i
+       b2wAAAAAAACnAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
+       hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAagAAACMBAAABAAAAlAMDAQAAAAD/
+       /wEAlAOMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJp
+       ZgAAAAAAAP0AAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCH
+       AAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACNAQAAjQEAAAEAdEYAAAAAAP//AQB0
+       AIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAA
+       AAAA/QAAAAAAAwAAAAUAAAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAF
+       AAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAPcBAACNAQAAAQAsPwAAAAAA//8BACwAjAAB
+       AAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAAD9
+       AAAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/
+       ////AIYAAQAEAAAAAAAAAHIAAgAXAAAARgIAAI0BAAABAHRGAAAAAAD//wEAdACMAAEAAAAA
+       AIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAP0AAAD//wAAAAAF
+       AAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQA
+       AAAAAAAAcgACABoAAACwAgAAjQEAAAEAAAASIskAAAAAAP//AQASIowAAQAAAAAAiwABAAIA
+       AAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAA/QAAAAAAAwAAAAUA
+       AAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAA
+       AAAAAAByAAIAFwAAAIQDAACNAQAAAQBUjQAAAAAA//8BAFQAjAABAAAAAACVAAEABAAAAAAA
+       AACWAAEAAgAAAAkAjAABAAAAAAA=
+      </office:binary-data>
+     </draw:image>
+     <svg:desc>formula</svg:desc>
+    </draw:frame> от хранилища, считать дельту как <office:annotation>
+     <dc:creator>Unknown Author</dc:creator>
+     <dc:date>2015-03-23T16:19:39</dc:date>
+     <text:p text:style-name="P18"><text:span text:style-name="T9">Другое слово, показывающее, что мы считаем эту дельту как правдивую и верим.</text:span></text:p>
+    </office:annotation>легитимную. Тогда процедура применения дельты от хранилища:</text:p>
+   <text:list xml:id="list1828696099" text:style-name="L6">
+    <text:list-item>
+     <text:p text:style-name="P13">Попытаться применить дельту к текущему тексту <draw:frame draw:style-name="fr1" draw:name="Object22" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.3555in" svg:height="0.2098in" draw:z-index="21"><draw:object>
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <semantics>
+          <mrow>
+           <msub>
+            <mi>C</mi>
+            <mrow>
+             <mrow>
+              <mi>t</mi>
+              <mo stretchy="false">+</mo>
+              <mo stretchy="false">δ</mo>
+             </mrow>
+            </mrow>
+           </msub>
+          </mrow>
+          <annotation encoding="StarMath 5.0">C_{t+%delta}</annotation>
+         </semantics>
+        </math>
+       </draw:object><draw:image>
+        <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAYcDAAAU
+         AgAAJAAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACGAwAAEwIAAJUA
+         AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRp
+         b24gU2VyaWYAAAAAAACnAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
+         AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAagAAAHIBAAABAEMaAQAA
+         AAD//wEAQwCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBT
+         ZXJpZgAAAAAAAP0AAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAA
+         AQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACNAQAA3AEAAAEAdEYAAAAAAP//
+         AQB0AIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAA
+         /QAAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA
+         /////wCGAAEABAAAAAAAAAByAAIAGgAAAPcBAADcAQAAAQAAACsAlAAAAAAA//8BACsAjAAB
+         AAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAAD9AAAA//8A
+         AAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYA
+         AQAEAAAAAAAAAHIAAgAaAAAAlQIAANwBAAABAAAAtAN9AAAAAAD//wEAtAOMAAEAAAAAAJUA
+         AQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
+        </office:binary-data>
+       </draw:image>
+      </draw:frame>(<draw:frame draw:style-name="fr1" draw:name="Object23" text:anchor-type="as-char" svg:y="-0.1252in" svg:width="0.1661in" svg:height="0.1362in" draw:z-index="22"><draw:object>
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <semantics>
+          <mrow>
+           <mo stretchy="false">δ</mo>
+          </mrow>
+          <annotation encoding="StarMath 5.0">%delta</annotation>
+         </semantics>
+        </math>
+       </draw:object><draw:image>
+        <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAaYBAABZ
+         AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAAClAQAAWAEAAJUA
+         AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1i
+         b2wAAAAAAACnAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
+         hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAagAAAD4BAAABAAAAtAPRAAAAAAD/
+         /wEAtAOMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
+        </office:binary-data>
+       </draw:image>
+      </draw:frame>отвечает за время задержки между текущим временем и временем <draw:frame draw:style-name="fr1" draw:name="Object24" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1374in" svg:height="0.1846in" draw:z-index="23"><draw:object>
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <semantics>
+          <mrow>
+           <mi>t</mi>
+          </mrow>
+          <annotation encoding="StarMath 5.0">t</annotation>
+         </semantics>
+        </math>
+       </draw:object><draw:image>
+        <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAV4BAADV
+         AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAABdAQAA1AEAAJUA
+         AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRp
+         b24gU2VyaWYAAAAAAACnAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
+         AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAagAAAHIBAAABAHR2AAAA
+         AAD//wEAdACMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
+        </office:binary-data>
+       </draw:image>
+      </draw:frame>);</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P13">Если возникает конфликт, необходимо вернуться (в истории изменений текста) на первое состояние, при котором <draw:frame draw:style-name="fr1" draw:name="Object25" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4571in" svg:height="0.1807in" draw:z-index="24"><draw:object>
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <semantics>
+          <mrow>
+           <msub>
+            <mo stretchy="false">Δ</mo>
+            <mrow>
+             <mi>t</mi>
+             <mi>,</mi>
+             <mrow>
+              <mi>t</mi>
+              <mo stretchy="false">−</mo>
+              <mi>T</mi>
+             </mrow>
+            </mrow>
+           </msub>
+          </mrow>
+          <annotation encoding="StarMath 5.0">%DELTA_{t,t-T}</annotation>
+         </semantics>
+        </math>
+       </draw:object><draw:image>
+        <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAYkEAADK
+         AQAAMgAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACIBAAAyQEAAJUA
+         AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1i
+         b2wAAAAAAACnAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
+         hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAagAAACMBAAABAAAAlAMDAQAAAAD/
+         /wEAlAOMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJp
+         ZgAAAAAAAP0AAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCH
+         AAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACNAQAAjQEAAAEAdEYAAAAAAP//AQB0
+         AIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAA
+         AAAA/QAAAAAAAwAAAAUAAAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAF
+         AAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAPcBAACNAQAAAQAsPwAAAAAA//8BACwAjAAB
+         AAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAAD9
+         AAAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/
+         ////AIYAAQAEAAAAAAAAAHIAAgAXAAAARgIAAI0BAAABAHRGAAAAAAD//wEAdACMAAEAAAAA
+         AIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAP0AAAD//wAAAAAF
+         AAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQA
+         AAAAAAAAcgACABoAAACwAgAAjQEAAAEAAAASIskAAAAAAP//AQASIowAAQAAAAAAiwABAAIA
+         AAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAA/QAAAAAAAwAAAAUA
+         AAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAA
+         AAAAAAByAAIAFwAAAIQDAACNAQAAAQBUjQAAAAAA//8BAFQAjAABAAAAAACVAAEABAAAAAAA
+         AACWAAEAAgAAAAkAjAABAAAAAAA=
+        </office:binary-data>
+       </draw:image>
+       <svg:desc>formula</svg:desc>
+      </draw:frame>может примениться и воссоздать состояние <draw:frame draw:style-name="fr1" draw:name="Object26" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="1.122in" svg:height="0.2098in" draw:z-index="25"><draw:object>
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <semantics>
+          <mrow>
+           <mrow>
+            <msub>
+             <mi>S</mi>
+             <mi>t</mi>
+            </msub>
+            <mo stretchy="false">=</mo>
+            <mrow>
+             <msub>
+              <mi>S</mi>
+              <mrow>
+               <mrow>
+                <mi>t</mi>
+                <mo stretchy="false">−</mo>
+                <mi>T</mi>
+               </mrow>
+              </mrow>
+             </msub>
+             <mo stretchy="false">+</mo>
+             <msub>
+              <mo stretchy="false">Δ</mo>
+              <mrow>
+               <mi>t</mi>
+               <mi>,</mi>
+               <mrow>
+                <mi>t</mi>
+                <mo stretchy="false">−</mo>
+                <mi>T</mi>
+               </mrow>
+              </mrow>
+             </msub>
+            </mrow>
+           </mrow>
+          </mrow>
+          <annotation encoding="StarMath 5.0">S_t = S_{t-T} + %DELTA_{t,t-T}</annotation>
+         </semantics>
+        </math>
+       </draw:object><draw:image>
+        <office:binary-data>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
+        </office:binary-data>
+       </draw:image>
+      </draw:frame>:</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P14">Сохраним текущее состояние текста как <draw:frame draw:style-name="fr1" draw:name="Object28" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.3555in" svg:height="0.2098in" draw:z-index="27"><draw:object>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow>
+             <msub>
+              <mi>C</mi>
+              <mrow>
+               <mrow>
+                <mi>t</mi>
+                <mo stretchy="false">+</mo>
+                <mo stretchy="false">δ</mo>
+               </mrow>
+              </mrow>
+             </msub>
+            </mrow>
+            <annotation encoding="StarMath 5.0">C_{t+%delta}</annotation>
+           </semantics>
+          </math>
+         </draw:object><draw:image>
+          <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAYcDAAAU
+           AgAAJAAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACGAwAAEwIAAJUA
+           AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRp
+           b24gU2VyaWYAAAAAAACnAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
+           AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAagAAAHIBAAABAEMaAQAA
+           AAD//wEAQwCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBT
+           ZXJpZgAAAAAAAP0AAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAA
+           AQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACNAQAA3AEAAAEAdEYAAAAAAP//
+           AQB0AIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAA
+           /QAAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA
+           /////wCGAAEABAAAAAAAAAByAAIAGgAAAPcBAADcAQAAAQAAACsAlAAAAAAA//8BACsAjAAB
+           AAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAAD9AAAA//8A
+           AAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYA
+           AQAEAAAAAAAAAHIAAgAaAAAAlQIAANwBAAABAAAAtAN9AAAAAAD//wEAtAOMAAEAAAAAAJUA
+           AQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
+          </office:binary-data>
+         </draw:image>
+        </draw:frame>для того, чтобы не потерять уже сделанные изменения, которые произошли за время <draw:frame draw:style-name="fr1" draw:name="Object29" text:anchor-type="as-char" svg:y="-0.1252in" svg:width="0.1661in" svg:height="0.1362in" draw:z-index="28"><draw:object>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow>
+             <mo stretchy="false">δ</mo>
+            </mrow>
+            <annotation encoding="StarMath 5.0">%delta</annotation>
+           </semantics>
+          </math>
+         </draw:object><draw:image>
+          <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAaYBAABZ
+           AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAAClAQAAWAEAAJUA
+           AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1i
+           b2wAAAAAAACnAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
+           hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAagAAAD4BAAABAAAAtAPRAAAAAAD/
+           /wEAtAOMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
+          </office:binary-data>
+         </draw:image>
+        </draw:frame>;</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P14">Будем убирать (откатывать) изменения начиная с последнего, двигаясь далее в «прошлое», пока не сможет примениться <draw:frame draw:style-name="fr1" draw:name="Object27" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4571in" svg:height="0.1807in" draw:z-index="26"><draw:object>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow>
+             <msub>
+              <mo stretchy="false">Δ</mo>
+              <mrow>
+               <mi>t</mi>
+               <mi>,</mi>
+               <mrow>
+                <mi>t</mi>
+                <mo stretchy="false">−</mo>
+                <mi>T</mi>
+               </mrow>
+              </mrow>
+             </msub>
+            </mrow>
+            <annotation encoding="StarMath 5.0">%DELTA_{t,t-T}</annotation>
+           </semantics>
+          </math>
+         </draw:object><draw:image>
+          <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAYkEAADK
+           AQAAMgAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACIBAAAyQEAAJUA
+           AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1i
+           b2wAAAAAAACnAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
+           hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAagAAACMBAAABAAAAlAMDAQAAAAD/
+           /wEAlAOMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJp
+           ZgAAAAAAAP0AAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCH
+           AAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACNAQAAjQEAAAEAdEYAAAAAAP//AQB0
+           AIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAA
+           AAAA/QAAAAAAAwAAAAUAAAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAF
+           AAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAPcBAACNAQAAAQAsPwAAAAAA//8BACwAjAAB
+           AAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAAD9
+           AAAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/
+           ////AIYAAQAEAAAAAAAAAHIAAgAXAAAARgIAAI0BAAABAHRGAAAAAAD//wEAdACMAAEAAAAA
+           AIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAP0AAAD//wAAAAAF
+           AAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQA
+           AAAAAAAAcgACABoAAACwAgAAjQEAAAEAAAASIskAAAAAAP//AQASIowAAQAAAAAAiwABAAIA
+           AAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAA/QAAAAAAAwAAAAUA
+           AAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAA
+           AAAAAAByAAIAFwAAAIQDAACNAQAAAQBUjQAAAAAA//8BAFQAjAABAAAAAACVAAEABAAAAAAA
+           AACWAAEAAgAAAAkAjAABAAAAAAA=
+          </office:binary-data>
+         </draw:image>
+         <svg:desc>formula</svg:desc>
+        </draw:frame>без конфликтов. Обозначим найденное состояние как <draw:frame draw:style-name="fr1" draw:name="Object31" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1874in" svg:height="0.1846in" draw:z-index="30"><draw:object>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow>
+             <mi>Z</mi>
+            </mrow>
+            <annotation encoding="StarMath 5.0">Z</annotation>
+           </semantics>
+          </math>
+         </draw:object><draw:image>
+          <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAdwBAADU
+           AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAADbAQAA0wEAAJUA
+           AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRp
+           b24gU2VyaWYAAAAAAACmAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
+           AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAagAAAHIBAAABAFrrAAAA
+           AAD//wEAWgCMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
+          </office:binary-data>
+         </draw:image>
+        </draw:frame>;</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P14">Присвоим <draw:frame draw:style-name="fr1" draw:name="Object30" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.9508in" svg:height="0.2098in" draw:z-index="29"><draw:object>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow>
+             <mrow>
+              <msub>
+               <mi>S</mi>
+               <mrow>
+                <mi>t</mi>
+               </mrow>
+              </msub>
+              <mo stretchy="false">=</mo>
+              <mrow>
+               <mi>Z</mi>
+               <mo stretchy="false">+</mo>
+               <msub>
+                <mo stretchy="false">Δ</mo>
+                <mrow>
+                 <mi>t</mi>
+                 <mi>,</mi>
+                 <mrow>
+                  <mi>t</mi>
+                  <mo stretchy="false">−</mo>
+                  <mi>T</mi>
+                 </mrow>
+                </mrow>
+               </msub>
+              </mrow>
+             </mrow>
+            </mrow>
+            <annotation encoding="StarMath 5.0">S_{t} = Z + %DELTA_{t,t-T}</annotation>
+           </semantics>
+          </math>
+         </draw:object><draw:image>
+          <office:binary-data>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
+          </office:binary-data>
+         </draw:image>
+        </draw:frame>, получив тем самым то состояние, которое было в хранилище на момент времени <draw:frame draw:style-name="fr1" draw:name="Object32" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1374in" svg:height="0.1846in" draw:z-index="31"><draw:object>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow>
+             <mi>t</mi>
+            </mrow>
+            <annotation encoding="StarMath 5.0">t</annotation>
+           </semantics>
+          </math>
+         </draw:object><draw:image>
+          <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAV4BAADU
+           AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAABdAQAA0wEAAJUA
+           AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRp
+           b24gU2VyaWYAAAAAAACmAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
+           AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAagAAAHIBAAABAHR1AAAA
+           AAD//wEAdACMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
+          </office:binary-data>
+         </draw:image>
+        </draw:frame>;</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P14">Чтобы не потерять сделанные изменения за время <draw:frame draw:style-name="fr1" draw:name="Object33" text:anchor-type="as-char" svg:y="-0.1252in" svg:width="0.1661in" svg:height="0.1362in" draw:z-index="32"><draw:object>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow>
+             <mo stretchy="false">δ</mo>
+            </mrow>
+            <annotation encoding="StarMath 5.0">%delta</annotation>
+           </semantics>
+          </math>
+         </draw:object><draw:image>
+          <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAaUBAABY
+           AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACkAQAAVwEAAJUA
+           AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1i
+           b2wAAAAAAACmAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
+           hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAagAAAD4BAAABAAAAtAPQAAAAAAD/
+           /wEAtAOMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
+          </office:binary-data>
+         </draw:image>
+        </draw:frame>, посчитаем дельту между <draw:frame draw:style-name="fr1" draw:name="Object34" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1874in" svg:height="0.1846in" draw:z-index="33"><draw:object>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow>
+             <mi>Z</mi>
+            </mrow>
+            <annotation encoding="StarMath 5.0">Z</annotation>
+           </semantics>
+          </math>
+         </draw:object><draw:image>
+          <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAd0BAADV
+           AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAADcAQAA1AEAAJUA
+           AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRp
+           b24gU2VyaWYAAAAAAACnAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
+           AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAagAAAHIBAAABAFrrAAAA
+           AAD//wEAWgCMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
+          </office:binary-data>
+         </draw:image>
+        </draw:frame>и <draw:frame draw:style-name="fr1" draw:name="Object35" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.3555in" svg:height="0.2098in" draw:z-index="34"><draw:object>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow>
+             <msub>
+              <mi>C</mi>
+              <mrow>
+               <mrow>
+                <mi>t</mi>
+                <mo stretchy="false">+</mo>
+                <mo stretchy="false">δ</mo>
+               </mrow>
+              </mrow>
+             </msub>
+            </mrow>
+            <annotation encoding="StarMath 5.0">C_{t+%delta}</annotation>
+           </semantics>
+          </math>
+         </draw:object><draw:image>
+          <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAYYDAAAT
+           AgAAJAAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACFAwAAEgIAAJUA
+           AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRp
+           b24gU2VyaWYAAAAAAACmAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEA
+           AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAagAAAHIBAAABAEMZAQAA
+           AAD//wEAQwCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBT
+           ZXJpZgAAAAAAAP0AAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAA
+           AQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACNAQAA3AEAAAEAdEYAAAAAAP//
+           AQB0AIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAA
+           /QAAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA
+           /////wCGAAEABAAAAAAAAAByAAIAGgAAAPcBAADcAQAAAQAAACsAlAAAAAAA//8BACsAjAAB
+           AAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAAD9AAAA//8A
+           AAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYA
+           AQAEAAAAAAAAAHIAAgAaAAAAlQIAANwBAAABAAAAtAN9AAAAAAD//wEAtAOMAAEAAAAAAJUA
+           AQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
+          </office:binary-data>
+         </draw:image>
+        </draw:frame>. Обозначим эту дельту как <draw:frame draw:style-name="fr1" draw:name="Object36" text:anchor-type="as-char" svg:y="-0.1256in" svg:width="0.1728in" svg:height="0.1634in" draw:z-index="35"><draw:object>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow>
+             <mo stretchy="false">ζ</mo>
+            </mrow>
+            <annotation encoding="StarMath 5.0">%zeta</annotation>
+           </semantics>
+          </math>
+         </draw:object><draw:image>
+          <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAbcBAACe
+           AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAAC2AQAAnQEAAJUA
+           AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1i
+           b2wAAAAAAACmAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
+           hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAagAAAD4BAAABAAAAtgPQAAAAAAD/
+           /wEAtgOMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
+          </office:binary-data>
+         </draw:image>
+        </draw:frame>.</text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="Text_20_body">Очевидно, что дельта <draw:frame draw:style-name="fr1" draw:name="Object37" text:anchor-type="as-char" svg:y="-0.1256in" svg:width="0.1728in" svg:height="0.1634in" draw:z-index="36"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+       <semantics>
+        <mrow>
+         <mo stretchy="false">ζ</mo>
+        </mrow>
+        <annotation encoding="StarMath 5.0">%zeta</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAbcBAACe
+       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAAC2AQAAnQEAAJUA
+       AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1i
+       b2wAAAAAAACmAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
+       hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAagAAAD4BAAABAAAAtgPQAAAAAAD/
+       /wEAtgOMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
+      </office:binary-data>
+     </draw:image>
+    </draw:frame>не сможет примениться к состоянию <draw:frame draw:style-name="fr1" draw:name="Object38" text:anchor-type="as-char" svg:y="-0.1173in" svg:width="0.1917in" svg:height="0.1264in" draw:z-index="37"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+       <semantics>
+        <mrow>
+         <mo stretchy="false">Ζ</mo>
+        </mrow>
+        <annotation encoding="StarMath 5.0">%ZETA</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAeUBAABA
+       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAADkAQAAPwEAAJUA
+       AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1i
+       b2wAAAAAAACmAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
+       hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAagAAACMBAAABAAAAlgMOAQAAAAD/
+       /wEAlgOMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
+      </office:binary-data>
+     </draw:image>
+    </draw:frame> верно, потому что контекст, необходимый для вставок и удалений не будет совпадать, из-за примененной<draw:frame draw:style-name="fr1" draw:name="Object39" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4571in" svg:height="0.1799in" draw:z-index="38"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+       <semantics>
+        <mrow>
+         <msub>
+          <mo stretchy="false">Δ</mo>
+          <mrow>
+           <mi>t</mi>
+           <mi>,</mi>
+           <mrow>
+            <mi>t</mi>
+            <mo stretchy="false">−</mo>
+            <mi>T</mi>
+           </mrow>
+          </mrow>
+         </msub>
+        </mrow>
+        <annotation encoding="StarMath 5.0">%DELTA_{t,t-T}
+</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAYkEAADJ
+       AQAAMgAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACIBAAAyAEAAJUA
+       AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1i
+       b2wAAAAAAACmAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
+       hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAagAAACMBAAABAAAAlAMCAQAAAAD/
+       /wEAlAOMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJp
+       ZgAAAAAAAP0AAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCH
+       AAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACNAQAAjQEAAAEAdEYAAAAAAP//AQB0
+       AIwAAQAAAAAAiwABAAIAAAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAA
+       AAAA/QAAAAAAAwAAAAUAAAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAF
+       AAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAPcBAACNAQAAAQAsPwAAAAAA//8BACwAjAAB
+       AAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAAD9
+       AAAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/
+       ////AIYAAQAEAAAAAAAAAHIAAgAXAAAARgIAAI0BAAABAHRGAAAAAAD//wEAdACMAAEAAAAA
+       AIsAAQACAAAAHwCKAAEAPAAAAAMANgAAAAoAT3BlblN5bWJvbAAAAAAAAP0AAAD//wAAAAAF
+       AAAAAAAAAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQA
+       AAAAAAAAcgACABoAAACwAgAAjQEAAAEAAAASIskAAAAAAP//AQASIowAAQAAAAAAiwABAAIA
+       AAAfAIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAA/QAAAAAAAwAAAAUA
+       AAAAAAIA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAA
+       AAAAAAByAAIAFwAAAIQDAACNAQAAAQBUjQAAAAAA//8BAFQAjAABAAAAAACVAAEABAAAAAAA
+       AACWAAEAAgAAAAkAjAABAAAAAAA=
+      </office:binary-data>
+     </draw:image>
+    </draw:frame>.</text:p>
+   <text:p text:style-name="Text_20_body">Мы приходим к тому факту, что чтобы правильно обрабатывать ситуации <office:annotation>
+     <dc:creator>Unknown Author</dc:creator>
+     <dc:date>2015-03-23T17:11:09</dc:date>
+     <text:p text:style-name="P18"><text:span text:style-name="T9">Описать что такое дельта лучше и что такое конфликт в начале</text:span></text:p>
+    </office:annotation>конфликта, необходим алгоритм, который бы мог применить дельту с нарушением контекста.</text:p>
+   <text:p text:style-name="Text_20_body">К счастью, такой алгоритм существует</text:p>
   </office:text>
  </office:body>
 </office:document>
