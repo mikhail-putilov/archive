@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2015-03-23T19:17:29</meta:creation-date><meta:editing-duration>PT1H12M37S</meta:editing-duration><meta:editing-cycles>9</meta:editing-cycles><meta:generator>LibreOffice/3.5$Linux_X86_64 LibreOffice_project/350m1$Build-2</meta:generator><dc:description>Шаблон оформления диплома ВПИ (ф) ВолгГТУ</dc:description><meta:keyword>ВПИ (ф) ВолгГТУ</meta:keyword><dc:subject>Шаблон оформления диплома</dc:subject><dc:title>Шаблон оформления диплома</dc:title><dc:date>2015-03-23T22:32:52</dc:date><meta:document-statistic meta:table-count="4" meta:image-count="4" meta:object-count="41" meta:page-count="29" meta:paragraph-count="257" meta:word-count="3976" meta:character-count="28843" meta:non-whitespace-character-count="25084"/></office:meta>
+ <office:meta><meta:creation-date>2015-03-23T19:17:29</meta:creation-date><meta:editing-duration>PT1H48M5S</meta:editing-duration><meta:editing-cycles>12</meta:editing-cycles><meta:generator>LibreOffice/3.5$Linux_X86_64 LibreOffice_project/350m1$Build-2</meta:generator><dc:description>Шаблон оформления диплома ВПИ (ф) ВолгГТУ</dc:description><meta:keyword>ВПИ (ф) ВолгГТУ</meta:keyword><dc:subject>Шаблон оформления диплома</dc:subject><dc:title>Шаблон оформления диплома</dc:title><dc:date>2015-03-23T23:08:20</dc:date><meta:document-statistic meta:table-count="5" meta:image-count="4" meta:object-count="42" meta:page-count="30" meta:paragraph-count="265" meta:word-count="4350" meta:character-count="31219" meta:non-whitespace-character-count="27094"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">421005</config:config-item>
-   <config:config-item config:name="ViewAreaLeft" config:type="long">3598</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">457412</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">212</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">24158</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">23761</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">5253</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">436099</config:config-item>
-     <config:config-item config:name="VisibleLeft" config:type="long">3598</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">421005</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">27755</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">444765</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">14850</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">465108</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">212</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">457412</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">24368</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">481171</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -117,6 +117,7 @@
   <style:font-face style:name="Lohit Hindi1" svg:font-family="&apos;Lohit Hindi&apos;"/>
   <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol"/>
   <style:font-face style:name="arial" svg:font-family="arial, sans-serif"/>
+  <style:font-face style:name="monospace" svg:font-family="monospace"/>
   <style:font-face style:name="sans-serif" svg:font-family="sans-serif"/>
   <style:font-face style:name="Liberation Serif1" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman"/>
   <style:font-face style:name="Andale Sans UI" svg:font-family="&apos;Andale Sans UI&apos;, &apos;Arial Unicode MS&apos;, &apos;Lucida Sans Unicode&apos;, Tahoma, &apos;DejaVu Sans&apos;, &apos;Albany AMT&apos;, Albany, Arial, &apos;Nimbus Sans L&apos;, &apos;Interface User&apos;, WarpSans, Geneva, Tahoma, &apos;MS Sans Serif&apos;, Helv, Dialog, Lucida, Helvetica, Charcoal, Chicago, Helmet, &apos;Interface System&apos;, &apos;Sans Serif&apos;" style:font-family-generic="swiss"/>
@@ -724,6 +725,18 @@
   <style:style style:name="Таблица3.A1" style:family="table-cell">
    <style:table-cell-properties style:vertical-align="middle" fo:padding="0.0382in" fo:border="none"/>
   </style:style>
+  <style:style style:name="Tabelle4" style:family="table">
+   <style:table-properties style:width="6.4965in" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Tabelle4.A" style:family="table-column">
+   <style:table-column-properties style:column-width="5.7743in" style:rel-column-width="58251*"/>
+  </style:style>
+  <style:style style:name="Tabelle4.B" style:family="table-column">
+   <style:table-column-properties style:column-width="0.7222in" style:rel-column-width="7284*"/>
+  </style:style>
+  <style:style style:name="Tabelle4.A1" style:family="table-cell">
+   <style:table-cell-properties style:vertical-align="middle" fo:padding="0.0382in" fo:border="none"/>
+  </style:style>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Header">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
@@ -802,8 +815,8 @@
    <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Д_5f_Маркированный_5f_Список" style:list-style-name="L1"/>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Д_5f_Заголовок_5f_0_20__28_С_20_разрывом_20_страницы_20_перед_29_" style:master-page-name="Д_5f_Страница_5f_Основная">
-   <style:paragraph-properties style:page-number="auto"/>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Д_5f_Заголовок_5f_0_20__28_С_20_разрывом_20_страницы_20_перед_29_" style:master-page-name="">
+   <style:paragraph-properties style:page-number="auto" fo:break-before="auto" fo:break-after="auto"/>
   </style:style>
   <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Д_5f_Заголовок_5f_2">
    <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
@@ -842,24 +855,30 @@
   <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Д_5f_Заголовок_5f_3">
    <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Д_5f_Нумерованный_5f_Список" style:list-style-name="L2"/>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Д_5f_Нумерованный_5f_Список" style:list-style-name="L3"/>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Д_5f_Нумерованный_5f_Список" style:list-style-name="L4"/>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Д_5f_Нумерованный_5f_Список" style:list-style-name="L5"/>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Д_5f_Нумерованный_5f_Список" style:list-style-name="L6"/>
-  <style:style style:name="P39" style:family="paragraph">
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Д_5f_Нумерованный_5f_Список" style:list-style-name="L2"/>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Д_5f_Нумерованный_5f_Список" style:list-style-name="L3"/>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Д_5f_Нумерованный_5f_Список" style:list-style-name="L4"/>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Д_5f_Нумерованный_5f_Список" style:list-style-name="L5"/>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Д_5f_Нумерованный_5f_Список" style:list-style-name="L6"/>
+  <style:style style:name="P41" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" fo:line-height="100%" fo:text-align="start" fo:text-indent="0in" style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="lr-tb">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties fo:hyphenate="false"/>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph">
+  <style:style style:name="P42" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" fo:line-height="100%" fo:text-align="start" fo:text-indent="0in" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties fo:hyphenate="false"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph">
+  <style:style style:name="P43" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" fo:line-height="100%" fo:text-align="start" fo:text-indent="0in" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:writing-mode="lr-tb">
     <style:tab-stops/>
    </style:paragraph-properties>
@@ -893,12 +912,9 @@
    <style:text-properties style:font-name="Liberation Serif" style:font-name-asian="Droid Sans Fallback" style:font-name-complex="FreeSans"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#660099" style:text-line-through-style="none" style:font-name="arial" fo:font-size="13.5pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false"/>
-  </style:style>
-  <style:style style:name="T11" style:family="text">
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-position="0% 100%" style:font-name="Andale Sans UI" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="ru" fo:country="RU" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" style:font-name-asian="Droid Sans Fallback" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
-  <style:style style:name="T12" style:family="text">
+  <style:style style:name="T11" style:family="text">
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-position="0% 100%" style:font-name="Andale Sans UI" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="ru" fo:country="RU" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lohit Hindi" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:text-scale="100%" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Д_5f_Врезка">
@@ -1406,7 +1422,7 @@
   <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
   <style:master-page style:name="Д_5f_Страница_5f_Основная" style:display-name="Д_Страница_Основная" style:page-layout-name="pm2">
    <style:header>
-    <text:p text:style-name="P1"><text:page-number text:select-page="current">29</text:page-number></text:p>
+    <text:p text:style-name="P1"><text:page-number text:select-page="current">30</text:page-number></text:p>
    </style:header>
   </style:master-page>
   <style:master-page style:name="Endnote" style:page-layout-name="pm3"/>
@@ -1593,7 +1609,7 @@
     </text:table-of-content-source>
     <text:index-body>
      <text:index-title text:style-name="Sect2" text:name="Оглавление1_Head">
-      <text:h text:style-name="P23" text:outline-level="1">Оглавление</text:h>
+      <text:h text:style-name="P23" text:outline-level="1"><text:soft-page-break/>Оглавление</text:h>
      </text:index-title>
      <text:p text:style-name="P30"><text:a xlink:type="simple" xlink:href="#__RefHeading__556_1027853445" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Введение<text:tab/>4</text:a></text:p>
      <text:p text:style-name="P30"><text:a xlink:type="simple" xlink:href="#__RefHeading__589_1698352192" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">1 Основные стратегии<text:tab/>5</text:a></text:p>
@@ -1662,9 +1678,9 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст">Это не является <office:annotation>
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-22T00:38:08</dc:date>
-     <text:p text:style-name="P39"><text:span text:style-name="T11">Определить критерий заранее</text:span></text:p>
+     <text:p text:style-name="P41"><text:span text:style-name="T10">Определить критерий заранее</text:span></text:p>
     </office:annotation>оптимальным решением задачи редактирования текста в режиме реального времени.</text:p>
-   <text:list xml:id="list1238455139" text:continue-list="list8435925431" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list2123736557" text:continue-list="list8435925431" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -1676,29 +1692,29 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст">Данный подход основан на пересылке всех действий <office:annotation>
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-22T10:54:49</dc:date>
-     <text:p text:style-name="P41"><text:span text:style-name="T11">Описать в начале все определения</text:span></text:p>
+     <text:p text:style-name="P43"><text:span text:style-name="T10">Описать в начале все определения</text:span></text:p>
     </office:annotation>писателя и воспроизведении их на остальных компьютерах. На данный момент, самый популярные алгоритмы данного подхода основаны на <office:annotation>
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-22T00:41:59</dc:date>
-     <text:p text:style-name="P39"><text:span text:style-name="T11">Линк на вейв протокол</text:span></text:p>
+     <text:p text:style-name="P41"><text:span text:style-name="T10">Линк на вейв протокол</text:span></text:p>
     </office:annotation><text:span text:style-name="T5">Operation</text:span> <text:span text:style-name="T5">Transformation</text:span> – концепции, разработанной компанией Google в ныне закрытом проекте <office:annotation>
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-22T00:44:54</dc:date>
-     <text:p text:style-name="P39"><text:span text:style-name="T11">Добавить футноут про гугл вейв и его историю. кек</text:span></text:p>
+     <text:p text:style-name="P41"><text:span text:style-name="T10">Добавить футноут про гугл вейв и его историю. кек</text:span></text:p>
     </office:annotation><text:span text:style-name="T5">Wave.</text:span> Алгоритмы данного подхода объявляют состоянием системы пару: (текст, история действии). Чтобы разрешить <office:annotation>
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-22T00:47:48</dc:date>
-     <text:p text:style-name="P39"><text:span text:style-name="T11">Задать основную задачу синхронизации как соединение двух версий в одну дифмачпач кароч</text:span></text:p>
+     <text:p text:style-name="P41"><text:span text:style-name="T10">Задать основную задачу синхронизации как соединение двух версий в одну дифмачпач кароч</text:span></text:p>
     </office:annotation>основную задачу синхронизации, необходимо и достаточно, чтобы каждый воспроизвел историю действий от начала до конца. Сложность данного подхода возникает в тот момент, когда возникает потребность сохранять общую историю <office:annotation>
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-22T11:41:16</dc:date>
-     <text:p text:style-name="P41"><text:span text:style-name="T11">Вставить про гугл вейф и как они маньячат мясорубку истории</text:span></text:p>
+     <text:p text:style-name="P43"><text:span text:style-name="T10">Вставить про гугл вейф и как они маньячат мясорубку истории</text:span></text:p>
     </office:annotation>дей<text:soft-page-break/>ствий.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Сохранение истории действий писателя влечет за собой зависимость системы синхронизации от самих действий писателя. В общем случае, различное редактирование текста может быть выполнено не только человеком, но и скриптом, либо системой контроля версий. Предугадать и написать реализацию под каждый вид редактирования текста представляется крайне сложной задачей.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Так же различные редакторы, очевидно, предоставляют различные возможности редактирования. Простые редакторы ограничиваются лишь вставками и удалением, а более современные предоставляют такие инструменты как множественные курсоры, авто-форматирование и пр. Поэтому используя данный подход, реализация синхронизации будет сильно зависеть от возможностей самого редактора, что является ограничивающим фактором.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Для данного подхода критично, в какой последовательности будут производиться вставки и удаления. Если в случае двух человек, это не является проблемой, то во время редактирования втроем, уже необходимо вводить дополнительные блокировки, чтобы обеспечить верную последовательность вставок-удалений, что приводит к задержкам.</text:p>
    <text:p text:style-name="P4">Таким образом можно сделать вывод, что передача команд не является хорошим (естественным) способом разрешить задачу синхронизации.</text:p>
-   <text:list xml:id="list1837294265" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list92551373" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -1711,13 +1727,13 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст">Судя из названия, данный подход состоит из трех основных шагов:</text:p>
    <text:list xml:id="list2086587195" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P34">Каждый писатель копирует текущую версию файла себе;</text:p>
+     <text:p text:style-name="P36">Каждый писатель копирует текущую версию файла себе;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P34">Писатели редактируют какие-то фрагменты текста и отправляют свою версию файла в хранилище;</text:p>
+     <text:p text:style-name="P36">Писатели редактируют какие-то фрагменты текста и отправляют свою версию файла в хранилище;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P34">Хранилище производит слияние всех текстов в итоговую копию и отправляет всем писателям.</text:p>
+     <text:p text:style-name="P36">Хранилище производит слияние всех текстов в итоговую копию и отправляет всем писателям.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Основной плюс данного подхода заключаются в отсутствии блокировок на редактирование. Каждый писатель независимо ото всех редактирует свою личную копию файла, а поэтому нет необходимости вносить примитивы синхронизации на стадии редактирования текста. </text:p>
@@ -1730,9 +1746,9 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст"><text:span text:style-name="T2">Следовательно, данная стратегия так же не обеспечивает </text:span><text:span text:style-name="T2"><office:annotation>
       <dc:creator>Unknown Author</dc:creator>
       <dc:date>2015-03-22T13:22:19</dc:date>
-      <text:p text:style-name="P41"><text:span text:style-name="T11">Обозначить требования теоретически</text:span></text:p>
+      <text:p text:style-name="P43"><text:span text:style-name="T10">Обозначить требования теоретически</text:span></text:p>
      </office:annotation></text:span><text:span text:style-name="T2">все требования.</text:span></text:p>
-   <text:list xml:id="list1706266686" text:continue-list="list1837294265" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1843454125" text:continue-list="list92551373" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:h text:style-name="P24" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__1244_627238531"/>Улучшенная стратегия «копирование — изменение — слияние»<text:bookmark-end text:name="__RefHeading__1244_627238531"/></text:h>
     </text:list-item>
@@ -1743,13 +1759,13 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст">Если рассмотреть «копирование — изменение — слияние», можно выделить основные моменты:</text:p>
    <text:list xml:id="list261051614" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P35"><text:soft-page-break/>Редактирование происходит над локальной копией. Это позволяет избавиться от ожидания других писателей.</text:p>
+     <text:p text:style-name="P37"><text:soft-page-break/>Редактирование происходит над локальной копией. Это позволяет избавиться от ожидания других писателей.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">Централизованный сервер хранит версию файла, которая считается «верной». Это позволяет каждому участнику подключиться к редактированию в любой момент времени.</text:p>
+     <text:p text:style-name="P37">Централизованный сервер хранит версию файла, которая считается «верной». Это позволяет каждому участнику подключиться к редактированию в любой момент времени.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">Слияние позволяет собрать воедино все изменения, произведенные над файлом (без необходимости записи всей истории действий писателя<text:note text:id="ftn3" text:note-class="footnote"><text:note-citation>3</text:note-citation><text:note-body>
+     <text:p text:style-name="P37">Слияние позволяет собрать воедино все изменения, произведенные над файлом (без необходимости записи всей истории действий писателя<text:note text:id="ftn3" text:note-class="footnote"><text:note-citation>3</text:note-citation><text:note-body>
         <text:p text:style-name="Д_5f_Сноска"><text:s/>Имеется виду undo/redo последовательность действий.</text:p></text:note-body></text:note>).</text:p>
     </text:list-item>
    </text:list>
@@ -1972,7 +1988,7 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст">Не обращая пока внимания на обработку ошибок, которые могу возникнуть во время работы, опишем основные шаги алгоритма. Для одного писателя:</text:p>
    <text:list xml:id="list699464664" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P36"><text:soft-page-break/>В момент времени <draw:frame draw:style-name="fr5" draw:name="Object8" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1374in" svg:height="0.1846in" draw:z-index="22"><draw:object>
+     <text:p text:style-name="P38"><text:soft-page-break/>В момент времени <draw:frame draw:style-name="fr5" draw:name="Object8" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1374in" svg:height="0.1846in" draw:z-index="22"><draw:object>
         <math xmlns="http://www.w3.org/1998/Math/MathML">
          <semantics>
           <mrow>
@@ -1994,7 +2010,7 @@
       </draw:frame>запускается процедура синхронизации;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P36">Считается дельта<draw:frame draw:style-name="fr5" draw:name="Object9" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4571in" svg:height="0.1807in" draw:z-index="23"><draw:object>
+     <text:p text:style-name="P38">Считается дельта<draw:frame draw:style-name="fr5" draw:name="Object9" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4571in" svg:height="0.1807in" draw:z-index="23"><draw:object>
         <math xmlns="http://www.w3.org/1998/Math/MathML">
          <semantics>
           <mrow>
@@ -2106,10 +2122,10 @@
       </draw:frame>;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P36">Полученный результат сериализуется и отправляется в хранилище;</text:p>
+     <text:p text:style-name="P38">Полученный результат сериализуется и отправляется в хранилище;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P36">Присваивается<draw:frame draw:style-name="fr5" draw:name="Object13" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.5055in" svg:height="0.2098in" draw:z-index="26"><draw:object>
+     <text:p text:style-name="P38">Присваивается<draw:frame draw:style-name="fr5" draw:name="Object13" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.5055in" svg:height="0.2098in" draw:z-index="26"><draw:object>
         <math xmlns="http://www.w3.org/1998/Math/MathML">
          <semantics>
           <mrow>
@@ -2241,7 +2257,7 @@
     </draw:frame> во всей системе:</text:p>
    <text:list xml:id="list539536315" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P37">Хранилище принимает дельту<draw:frame draw:style-name="fr5" draw:name="Object16" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4571in" svg:height="0.1807in" draw:z-index="30"><draw:object>
+     <text:p text:style-name="P39">Хранилище принимает дельту<draw:frame draw:style-name="fr5" draw:name="Object16" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4571in" svg:height="0.1807in" draw:z-index="30"><draw:object>
         <math xmlns="http://www.w3.org/1998/Math/MathML">
          <semantics>
           <mrow>
@@ -2289,7 +2305,7 @@
       </draw:frame>;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P37">Применяет дельту к <draw:frame draw:style-name="fr5" draw:name="Object17" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.3598in" svg:height="0.2098in" draw:z-index="31"><draw:object>
+     <text:p text:style-name="P39">Применяет дельту к <draw:frame draw:style-name="fr5" draw:name="Object17" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.3598in" svg:height="0.2098in" draw:z-index="31"><draw:object>
         <math xmlns="http://www.w3.org/1998/Math/MathML">
          <semantics>
           <mrow>
@@ -2433,7 +2449,7 @@
       </draw:frame>;</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P37">Если предыдущие шаги выполнены без ошибок, отправляет всем остальным участникам <draw:frame draw:style-name="fr5" draw:name="Object20" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4571in" svg:height="0.1807in" draw:z-index="33"><draw:object>
+     <text:p text:style-name="P39">Если предыдущие шаги выполнены без ошибок, отправляет всем остальным участникам <draw:frame draw:style-name="fr5" draw:name="Object20" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4571in" svg:height="0.1807in" draw:z-index="33"><draw:object>
         <math xmlns="http://www.w3.org/1998/Math/MathML">
          <semantics>
           <mrow>
@@ -2529,11 +2545,11 @@
     </draw:frame> от хранилища, считать дельту как <office:annotation>
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-23T16:19:39</dc:date>
-     <text:p text:style-name="P41"><text:span text:style-name="T11">Другое слово, показывающее, что мы считаем эту дельту как правдивую и верим.</text:span></text:p>
+     <text:p text:style-name="P43"><text:span text:style-name="T10">Другое слово, показывающее, что мы считаем эту дельту как правдивую и верим.</text:span></text:p>
     </office:annotation>легитимную. Тогда процедура применения дельты от хранилища:</text:p>
    <text:list xml:id="list611288583" text:style-name="L6">
     <text:list-item>
-     <text:p text:style-name="P38">Попытаться применить дельту к текущему тексту <draw:frame draw:style-name="fr5" draw:name="Object22" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.3555in" svg:height="0.2098in" draw:z-index="35"><draw:object>
+     <text:p text:style-name="P40">Попытаться применить дельту к текущему тексту <draw:frame draw:style-name="fr5" draw:name="Object22" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.3555in" svg:height="0.2098in" draw:z-index="35"><draw:object>
         <math xmlns="http://www.w3.org/1998/Math/MathML">
          <semantics>
           <mrow>
@@ -2611,7 +2627,7 @@
       </draw:frame>);</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P38">Если возникает конфликт, необходимо вернуться (в истории изменений текста) на первое состояние, при котором <draw:frame draw:style-name="fr5" draw:name="Object25" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4571in" svg:height="0.1807in" draw:z-index="38"><draw:object>
+     <text:p text:style-name="P40">Если возникает конфликт, необходимо вернуться (в истории изменений текста) на первое состояние, при котором <draw:frame draw:style-name="fr5" draw:name="Object25" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4571in" svg:height="0.1807in" draw:z-index="38"><draw:object>
         <math xmlns="http://www.w3.org/1998/Math/MathML">
          <semantics>
           <mrow>
@@ -2747,7 +2763,7 @@
       </draw:frame>:</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P38">Сохраним текущее состояние текста как <draw:frame draw:style-name="fr5" draw:name="Object28" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.3555in" svg:height="0.2098in" draw:z-index="40"><draw:object>
+       <text:p text:style-name="P40">Сохраним текущее состояние текста как <draw:frame draw:style-name="fr5" draw:name="Object28" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.3555in" svg:height="0.2098in" draw:z-index="40"><draw:object>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
            <semantics>
             <mrow>
@@ -2806,7 +2822,7 @@
         </draw:frame>;</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">Будем убирать (откатывать) изменения начиная с последнего, двигаясь далее в «прошлое», пока не сможет примениться <draw:frame draw:style-name="fr5" draw:name="Object27" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4571in" svg:height="0.1807in" draw:z-index="42"><draw:object>
+       <text:p text:style-name="P40">Будем убирать (откатывать) изменения начиная с последнего, двигаясь далее в «прошлое», пока не сможет примениться <draw:frame draw:style-name="fr5" draw:name="Object27" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4571in" svg:height="0.1807in" draw:z-index="42"><draw:object>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
            <semantics>
             <mrow>
@@ -2873,7 +2889,7 @@
         </draw:frame>;</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">Присвоим <draw:frame draw:style-name="fr5" draw:name="Object30" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.9508in" svg:height="0.2098in" draw:z-index="44"><draw:object>
+       <text:p text:style-name="P40">Присвоим <draw:frame draw:style-name="fr5" draw:name="Object30" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.9508in" svg:height="0.2098in" draw:z-index="44"><draw:object>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
            <semantics>
             <mrow>
@@ -2967,7 +2983,7 @@
         </draw:frame>;</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P38">Чтобы не потерять сделанные изменения за время <draw:frame draw:style-name="fr5" draw:name="Object33" text:anchor-type="as-char" svg:y="-0.1252in" svg:width="0.1661in" svg:height="0.1362in" draw:z-index="46"><draw:object>
+       <text:p text:style-name="P40">Чтобы не потерять сделанные изменения за время <draw:frame draw:style-name="fr5" draw:name="Object33" text:anchor-type="as-char" svg:y="-0.1252in" svg:width="0.1661in" svg:height="0.1362in" draw:z-index="46"><draw:object>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
            <semantics>
             <mrow>
@@ -3005,7 +3021,7 @@
           </office:binary-data>
          </draw:image>
          <svg:desc>formula</svg:desc>
-        </draw:frame>и <draw:frame draw:style-name="fr5" draw:name="Object35" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.3555in" svg:height="0.2098in" draw:z-index="48"><draw:object>
+        </draw:frame>и <draw:frame draw:style-name="fr5" draw:name="Object35" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.3555in" svg:height="0.2098in" draw:z-index="52"><draw:object>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
            <semantics>
             <mrow>
@@ -3041,8 +3057,7 @@
            AQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
           </office:binary-data>
          </draw:image>
-         <svg:desc>formula</svg:desc>
-        </draw:frame>. Обозначим эту дельту как <draw:frame draw:style-name="fr5" draw:name="Object36" text:anchor-type="as-char" svg:y="-0.1256in" svg:width="0.1728in" svg:height="0.1634in" draw:z-index="49"><draw:object>
+        </draw:frame>. Обозначим эту дельту как <draw:frame draw:style-name="fr5" draw:name="Object36" text:anchor-type="as-char" svg:y="-0.1256in" svg:width="0.1728in" svg:height="0.1634in" draw:z-index="48"><draw:object>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
            <semantics>
             <mrow>
@@ -3066,7 +3081,7 @@
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Д_5f_Основной_5f_текст">Очевидно, что дельта <draw:frame draw:style-name="fr5" draw:name="Object37" text:anchor-type="as-char" svg:y="-0.1256in" svg:width="0.1728in" svg:height="0.1634in" draw:z-index="50"><draw:object>
+   <text:p text:style-name="Д_5f_Основной_5f_текст">Очевидно, что дельта <draw:frame draw:style-name="fr5" draw:name="Object37" text:anchor-type="as-char" svg:y="-0.1256in" svg:width="0.1728in" svg:height="0.1634in" draw:z-index="49"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -3085,7 +3100,7 @@
       </office:binary-data>
      </draw:image>
      <svg:desc>formula</svg:desc>
-    </draw:frame>не сможет примениться к состоянию <draw:frame draw:style-name="fr5" draw:name="Object38" text:anchor-type="as-char" svg:y="-0.1173in" svg:width="0.1917in" svg:height="0.1264in" draw:z-index="51"><draw:object>
+    </draw:frame>не сможет примениться к состоянию <draw:frame draw:style-name="fr5" draw:name="Object38" text:anchor-type="as-char" svg:y="-0.1173in" svg:width="0.1917in" svg:height="0.1264in" draw:z-index="50"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -3104,7 +3119,7 @@
       </office:binary-data>
      </draw:image>
      <svg:desc>formula</svg:desc>
-    </draw:frame> верно, потому что контекст, необходимый для вставок и удалений не будет совпадать, из-за примененной<draw:frame draw:style-name="fr5" draw:name="Object39" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4571in" svg:height="0.1807in" draw:z-index="52"><draw:object>
+    </draw:frame> верно, потому что контекст, необходимый для вставок и удалений не будет совпадать, из-за примененной<draw:frame draw:style-name="fr5" draw:name="Object39" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4571in" svg:height="0.1807in" draw:z-index="51"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -3154,10 +3169,10 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст">Мы приходим к тому факту, что чтобы правильно обрабатывать ситуации <office:annotation>
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-23T17:11:09</dc:date>
-     <text:p text:style-name="P41"><text:span text:style-name="T11">Описать что такое дельта лучше и что такое конфликт в начале</text:span></text:p>
+     <text:p text:style-name="P43"><text:span text:style-name="T10">Описать что такое дельта лучше и что такое конфликт в начале</text:span></text:p>
     </office:annotation>конфликта, необходим алгоритм, который бы мог применить дельту с нарушением контекста.</text:p>
    <text:p text:style-name="P4">К счастью, такой алгоритм существует и он называется Fuzzy Patch.</text:p>
-   <text:list xml:id="list1678607822" text:continue-list="list1706266686" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list2049178912" text:continue-list="list1843454125" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3171,7 +3186,7 @@
       <text:p text:style-name="Д_5f_Сноска"><text:s/>Ветка — это термин, использующийся в системе контроля версий для обозначения <text:span text:style-name="T1">текущей</text:span> истории изменений, которые привели к тому состоянию файла, которое можно наблюдать. Здесь важен тот факт, что разные версии одного и того же файла имеют разные истории. Если есть две ветки изменений, то к этому можно отнестись как к двум альтернативным реальностям в которых существуют две версии одного файла. Слияние веток – это объединение изменений в одну ветку. Естественно сделать это не всегда удается.</text:p></text:note-body></text:note>, возникает конфликт, который может разрешить лишь человек. Такое получается, когда дельты начинают применять к тексту, который не является кон<office:annotation>
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-23T21:54:48</dc:date>
-     <text:p text:style-name="P40"><text:span text:style-name="T12">Ввести понятие дельты с контекстом</text:span></text:p>
+     <text:p text:style-name="P42"><text:span text:style-name="T11">Ввести понятие дельты с контекстом</text:span></text:p>
     </office:annotation>текстом для применяемой дельты. Приведем пример (см. табл. <text:sequence-ref text:reference-format="value" text:ref-name="refTable0">1</text:sequence-ref> стр. <text:sequence-ref text:reference-format="page" text:ref-name="refTable0">13</text:sequence-ref>).</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="char" svg:x="0.1146in" svg:y="-0.0256in" svg:width="6.4957in" draw:z-index="13">
      <draw:text-box fo:min-height="0.9929in">
@@ -3188,7 +3203,7 @@
          <text:p text:style-name="P18"><office:annotation>
            <dc:creator>Unknown Author</dc:creator>
            <dc:date>2015-03-23T22:12:09</dc:date>
-           <text:p text:style-name="P40"><text:span text:style-name="T12">В месте где будет определена дельта, рассказать про unidiff формат</text:span></text:p>
+           <text:p text:style-name="P42"><text:span text:style-name="T11">В месте где будет определена дельта, рассказать про unidiff формат</text:span></text:p>
           </office:annotation>Дельта</text:p>
         </table:table-cell>
         <table:table-cell table:style-name="Table1.C1" office:value-type="string">
@@ -3244,12 +3259,12 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст">« ... программа может определить, если дельта не может быть полностью применена без ошибок и в таких случаях ищет корректное место для каждого фрагмента дельты в отдельности. Вначале фрагмент дельты ищется в предполагаемой окрестности. Если контекст не совпадает производится вторая попытка, сужая контекст таким образом, что отбрасываются одна <text:soft-page-break/>строка контекста до и одна строка после фрагмента дельты. Если по прежнему не получается применить дельту в предполагаемой окрестности, то отбрасываются по две строки и производится вновь поиск.»</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Как можно понять, такой подход является относительно ненадежным. Даже незначительные изменения между двумя версиями файла могут привести к тому, что дельта не сможет примениться.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">В приведенном выше примере, если заменить слово «Саша» на «Паша», то это приведет к конфликту, несмотря на то, что контекст совпал (начало файла — пустая строка). Интуитивно понятно, что в при редактировании текста в режиме реального времени такие ситуации не должны происходить в принципе.</text:p>
-   <text:p text:style-name="Д_5f_Основной_5f_текст">К тому же, такое поведение может породить ошибки такого плана: если в файле находятся два одинаковых кусочка текста и при этом кусочек, к которому по идее должна примениться дельта, был удален. Программа GNU patch посчитает не удаленный кусочек текста за совпавший контекст, даже если он находится в противоположном конце файла.</text:p>
+   <text:p text:style-name="Д_5f_Основной_5f_текст">К тому же, такое поведение может породить ошибки такого плана: если в файле находятся два одинаковых кусочка текста и при этом кусочек, к которому по идее должна примениться дельта, был удален. Программа GNU Patch посчитает не удаленный кусочек текста за совпавший контекст, даже если он находится в противоположном конце файла.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Алгоритм можно улучшить следующим образом: для этого будем хранить фрагменты дельты не построчно, а посимвольно, храня для каждого символа его контекст. Это позволит применять несколько фрагментов дельты на одной строке.</text:p>
-   <text:p text:style-name="Д_5f_Основной_5f_текст">Данная ситуация может натолкнуть на мысль, что вместо процедуры отбрасывания контекстных строк лучше найти место в тексте для которого минимален параметр: количество изменений которые надо допустить в тексте, чтобы он совпал с контекстом дельты. </text:p>
+   <text:p text:style-name="Д_5f_Основной_5f_текст">Данная ситуация может натолкнуть на мысль, что вместо процедуры отбрасывания контекстных строк лучше найти место в тексте для которого минимален параметр: количество изменений которые надо допустить в тексте, чтобы он совпал с контекстом дельты. Назовем эти изменения ошибками.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Действительно, за параметр можно взять расстояние Левенштейна, которое и характеризует «похожесть» одной строки на другую. Если исходный текст к которому применяется дельта будет похож на контекст дельты, то расстояние Левенштейна будет маленьким.</text:p>
-   <text:p text:style-name="Д_5f_Основной_5f_текст">Таким образом уже сейчас можно предложить наивный алгоритм, который может действовать следующим образом: допустить факт того, что в <text:soft-page-break/>контексте одна ошибка, пройти весь текст, попытавшись применить его с одной ошибкой, и, если не получилось, то допустить 2 ошибки и так далее.</text:p>
-   <text:list xml:id="list840843191" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:p text:style-name="Д_5f_Основной_5f_текст">Таким образом уже сейчас можно предложить наивный алгоритм, кото<text:soft-page-break/>рый может действовать следующим образом: допустить факт того, что в контексте одна ошибка, пройти весь текст, попытавшись применить его с одной ошибкой, и, если не получилось, то допустить 2 ошибки и так далее.</text:p>
+   <text:list xml:id="list712944071" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3263,7 +3278,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Сюда надо будет напихать две картиночки и расследование того, какой же гребаный размер контекста стоит взять.</text:p>
-   <text:list xml:id="list1887644452" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list501668851" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3280,12 +3295,163 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст"><office:annotation>
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-23T22:32:40</dc:date>
-     <text:p text:style-name="P40"><text:span text:style-name="T12">Описать шифт ор</text:span></text:p>
+     <text:p text:style-name="P42"><text:span text:style-name="T11">Описать шифт ор</text:span></text:p>
     </office:annotation>Shift-or впервые описан в 1991 году.</text:p>
-   <text:p text:style-name="Д_5f_Основной_5f_текст"/>
-   <text:p text:style-name="Д_5f_Основной_5f_текст"/>
+   <text:p text:style-name="Д_5f_Основной_5f_текст">При нечетком поиске подстроки в строке существует два основных параметра, отвечающие за точность найденного фрагмента: близость к ожидаемой области и количество ошибок в подстроке. Эти два параметра интуитивно характеризуют похожесть контекста и текста.</text:p>
+   <text:p text:style-name="Д_5f_Основной_5f_текст">В качестве метрики похожести для нечеткого поиска, разумно взять следующее определение:</text:p>
+   <text:p text:style-name="Standard"/>
+   <table:table table:name="Tabelle4" table:style-name="Tabelle4">
+    <table:table-column table:style-name="Tabelle4.A"/>
+    <table:table-column table:style-name="Tabelle4.B"/>
+    <table:table-header-rows>
+     <table:table-row>
+      <table:table-cell table:style-name="Tabelle4.A1" office:value-type="string">
+       <text:p text:style-name="P13"><draw:frame draw:style-name="fr5" draw:name="Object40" text:anchor-type="as-char" svg:y="-0.2437in" svg:width="1.3937in" svg:height="0.3929in" draw:z-index="53"><draw:object>
+          <math xmlns="http://www.w3.org/1998/Math/MathML">
+           <semantics>
+            <mrow>
+             <mrow>
+              <mi>s</mi>
+              <mo stretchy="false">=</mo>
+              <mrow>
+               <mo stretchy="false">(</mo>
+               <mrow>
+                <mfrac>
+                 <mrow>
+                  <mi>e</mi>
+                 </mrow>
+                 <mrow>
+                  <mi>p</mi>
+                 </mrow>
+                </mfrac>
+               </mrow>
+               <mo stretchy="false">)</mo>
+              </mrow>
+             </mrow>
+             <mrow>
+              <mfrac>
+               <mrow>
+                <mn>1</mn>
+               </mrow>
+               <mrow>
+                <mi>c</mi>
+               </mrow>
+              </mfrac>
+              <mo stretchy="false">+</mo>
+              <mrow>
+               <mo stretchy="false">(</mo>
+               <mrow>
+                <mfrac>
+                 <mrow>
+                  <mi>d</mi>
+                 </mrow>
+                 <mrow>
+                  <mi>t</mi>
+                 </mrow>
+                </mfrac>
+               </mrow>
+               <mo stretchy="false">)</mo>
+              </mrow>
+             </mrow>
+             <mfrac>
+              <mrow>
+               <mn>1</mn>
+              </mrow>
+              <mrow>
+               <mrow>
+                <mn>1</mn>
+                <mo stretchy="false">−</mo>
+                <mi>c</mi>
+               </mrow>
+              </mrow>
+             </mfrac>
+            </mrow>
+            <annotation encoding="StarMath 5.0">s = ({e} over {p}){1} over {c} + ({d} over {t}) {1} over {1 - c}</annotation>
+           </semantics>
+          </math>
+         </draw:object><draw:image>
+          <office:binary-data>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
+          </office:binary-data>
+         </draw:image>
+         <svg:desc>formula</svg:desc>
+        </draw:frame>,</text:p>
+      </table:table-cell>
+      <table:table-cell table:style-name="Tabelle4.A1" office:value-type="string">
+       <text:p text:style-name="P16">(<text:sequence text:ref-name="refText1" text:name="Text" text:formula="ooow:Text+1" style:num-format="1">2.1.2.1</text:sequence>)</text:p>
+      </table:table-cell>
+     </table:table-row>
+    </table:table-header-rows>
+   </table:table>
+   <text:p text:style-name="Д_5f_Основной_5f_текст">где s — это минимизируемый параметр, интуитивно характеризующий степень похожести; e — количество ошибок (расстояние Левенштейна); p — длина подстроки; d — расстояние (в символах) найденной подстроки от предполагаемого места; t — длина всего текста; c — весовой параметр.</text:p>
+   <text:p text:style-name="Д_5f_Основной_5f_текст">In broad strokes this formula simply adds the number of errors in the match to the distance which the match has been shifted. The lower the result, the better the match. The constant &apos;c&apos; determines whether to favour poor matches near the expected location as opposed to more accurate matches further afield. This allows the performance of patch to be tuned if it is performing poorly. Another variable <text:soft-page-break/>which may be tuned is &apos;t&apos; which may be coerced to a predefined minimum for small files (where a distance of a few characters might otherwise represent a significant percentage of the file length) or coerced to a predefined maximum for large files (where a small percentage distance might otherwise represent an unreasonable distance). Evaluating the distance requires examining it from both a percentage and from an absolute perspective.</text:p>
+   <text:p text:style-name="Д_5f_Основной_5f_текст">The tradeoff of favouring match location versus the match errors can be visualised using a four dimensional graph. The width and depth represent the two dimensions of accuracy, each within a range of [0..1]. The height represents the computed score, also within a range of [0..1]. As &apos;c&apos; traverses between 0 and 1, the score for any given match becomes less influenced by one form of accuracy and more influenced by the other. Hover the mouse over the graph to the right to see this traversal.</text:p>
+   <text:p text:style-name="Д_5f_Основной_5f_текст">Implementing this formula as a separate function allows the behaviour of patch to be tweaked and adjusted from one location. This function can control not only matching, but also cut-off points for stopping or restricting the matching algorithm. This separation works as long as the return score is deterministic and there is never a reverse correlation between score and distance or errors.</text:p>
    <text:h text:style-name="P26" text:outline-level="2"/>
-   <text:list xml:id="list574746505" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1283546999" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3299,7 +3465,7 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст"><text:span text:style-name="T2">Чтобы установить стиль страницы, необходимо поставить курсор на неё и выбрать стиль </text:span><text:span text:style-name="T1">«Д_Страница_</text:span><text:span text:style-name="T1">Основная</text:span><text:span text:style-name="T1">»</text:span><text:span text:style-name="T2">. В случае с титульной страницей нужно выбрать </text:span><text:span text:style-name="T1">«Д_Титульная_страница»</text:span><text:span text:style-name="T2">.</text:span></text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст"><text:span text:style-name="T2">Обычно достаточно выбрать стиль только для одной страницы, все последующие страницы наследуют её стиль. Для изменения стиля отдельной страницы необходимо использовать разрывы страниц (подробнее этот трюк описан в </text:span><text:a xlink:type="simple" xlink:href="http://dl.dropbox.com/u/7334460/rrmanual/lo_diplom.pdf"><text:span text:style-name="T1">http://dl.dropbox.com/u/7334460/rrmanual/lo_diplom.pdf</text:span></text:a><text:span text:style-name="T2"> </text:span><text:span text:style-name="T2">в главе «</text:span><text:span text:style-name="T2">II.5 Смена ориентации отдельных страниц</text:span><text:span text:style-name="T2">»</text:span><text:span text:style-name="T2">).</text:span></text:p>
    <text:p text:style-name="P4">Текущий стиль страницы пишется внизу в строке состояния.</text:p>
-   <text:list xml:id="list2149437564" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1900879201" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3395,7 +3561,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст"><text:span text:style-name="T2">Нумерация также вшита в стиль </text:span><text:span text:style-name="T1">«Д_Страница_</text:span><text:span text:style-name="T1">Основная</text:span><text:span text:style-name="T1">»</text:span><text:span text:style-name="T2">, но если номер не появился, то необходимо установить курсор в колонтитул страницы и выполнить </text:span><text:span text:style-name="T1">«Вставка → Поля → Номер страницы»</text:span><text:span text:style-name="T2">.</text:span></text:p>
-   <text:list xml:id="list773430154" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list2106196413" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3406,7 +3572,7 @@
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст"><text:span text:style-name="T2">Оглавление генерируется автоматически, если вы оформляете доку</text:span><text:soft-page-break/><text:span text:style-name="T2">мент на базе этого шаблона, то не удаляйте моё оглавление. Просто оформляйте основной текст, а после нажмите на оглавлении правой кнопкой мыши и выберите пункт </text:span><text:span text:style-name="T1">«Обновить оглавление\указатель»</text:span><text:span text:style-name="T2">.</text:span></text:p>
    <text:p text:style-name="P4">Обновление оглавления нужно выполнять в последнюю очередь, т. к. оно не учитывает изменения в режиме реального времени. Если вы добавите\удалите главы или они изменят свои страницы, то оглавление не будет знать об этом пока не будет произведено обновление.</text:p>
-   <text:list xml:id="list1578629933" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1440501801" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3419,7 +3585,7 @@
    <text:p text:style-name="P4">Отступы так же вшиты в стили, поэтому не надо заниматься идиотизмом, которому учат нормоконтролёры. Я про пустые строки с разными междустрочными интервалами. Все отступы просчитаны и жестко указаны в стилях.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст"><text:span text:style-name="T2">Чтобы задать </text:span><text:span text:style-name="T2">стиль тексту</text:span><text:span text:style-name="T2">, выделите текст и примените к нему один и следующих стилей. </text:span><text:span text:style-name="T2">Например, для создания заголовка главы, выделите строку, которая должна быть заголовком и выберите в стиль </text:span><text:span text:style-name="T1">«Д_Заголовок_1 (С разрывом страницы)».</text:span></text:p>
    <text:p text:style-name="P3">ВНИМАНИЕ! Если вы зададите заголовкам другие стили, то автоматическое оглавление не сгенерируется. Нельзя просто визуально обозначить заголовок, программа должна конкретно знать что является заголовком, а что является обычным текстом.</text:p>
-   <text:list xml:id="list1072070882" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1262589289" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3433,7 +3599,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст"><text:span text:style-name="T2">Заголовок главы задается стилем </text:span><text:span text:style-name="T1">«Д_Заголовок_1»</text:span><text:span text:style-name="T2"> или </text:span><text:span text:style-name="T1">«Д_Заголовок_1 (С разрывом страницы)»</text:span><text:span text:style-name="T2">. </text:span><text:span text:style-name="T2">Я рекомендую использовать последний, <text:s/>т. к. по нашим требованиям он должен начинаться с новой страницы. Для этого в </text:span><text:soft-page-break/><text:span text:style-name="T2">него вшит разрыв страницы, таким образом вам не нужно вручную ставить разрывы (надеюсь вы не жмете </text:span><text:span text:style-name="T1">«Enter»</text:span><text:span text:style-name="T2"> много раз, чтобы начать новую страницу).</text:span></text:p>
-   <text:list xml:id="list678005958" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list407620522" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3449,7 +3615,7 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст"><text:span text:style-name="T2">Заголовки подпунктов задаются тоже двумя стилями ― </text:span><text:span text:style-name="T1">«Д_Заголовок_2»</text:span><text:span text:style-name="T2"> и </text:span><text:span text:style-name="T1">«Д_Заголовок_3»</text:span><text:span text:style-name="T2">. </text:span><text:span text:style-name="T2">Разница между ними заключается в том, что первый используется если название пункта идет следом </text:span><text:span text:style-name="T2">за названием главы. </text:span><text:span text:style-name="T1">«Д_Заголовок_3» </text:span><text:span text:style-name="T2">используется для пунктов, которые идут после обычного текста.</text:span></text:p>
    <text:p text:style-name="P4">Дело в том, что между заголовком главы и пунктом стоит двойной интервал. А между текстом и заголовком пункта ставится другой интервал.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст"><text:span text:style-name="T2">Но вам не надо думать об этом. Просто запомните, что </text:span><text:span text:style-name="T1">«Д_Заголовок_2»</text:span><text:span text:style-name="T2"> ставится сразу после заголовка главы, в остальных случаях </text:span><text:span text:style-name="T2">используйте</text:span><text:span text:style-name="T2"> </text:span><text:span text:style-name="T1">«Д_Заголовок_3»</text:span><text:span text:style-name="T2">.</text:span></text:p>
-   <text:list xml:id="list1690474020" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1177783902" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3463,7 +3629,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст"><text:span text:style-name="T2">Заголовки приложений задаются стилем </text:span><text:span text:style-name="T1">«Д_Заголовок_Приложение»</text:span><text:span text:style-name="T2">. Его особенность заключается в том, что не надо писать слово </text:span><text:span text:style-name="T1">«Приложение»</text:span><text:span text:style-name="T2"> и ставить букву. </text:span><text:span text:style-name="T2">Разрыв страницы тоже вшит.</text:span></text:p>
-   <text:list xml:id="list900299485" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list288197840" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3477,7 +3643,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст"><text:span text:style-name="T2">Заголовки для Введения, Заключения и Библиографии задаются стилями </text:span><text:span text:style-name="T1">«Д_Заголовок_0»</text:span><text:span text:style-name="T2"> или </text:span><text:span text:style-name="T1">«Д_Заголовок_0 (С разрывом)»</text:span><text:span text:style-name="T2">. Опять же тут лучше использовать </text:span><text:span text:style-name="T1">«Д_Заголовок_0 (С разрывом)».</text:span></text:p>
-   <text:list xml:id="list2021286504" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list134724870" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3658,7 +3824,7 @@
      </draw:text-box>
     </draw:frame>Затем понизьте уровень пункта (Стрелочка вправо, на рисунке <text:sequence-ref text:reference-format="value" text:ref-name="refDrawing1">2</text:sequence-ref> в рамке).</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Тогда заголовок будет иметь нумерацию 2-го уровня (x.x), если это подпункт (x.x.x), то нужно еще раз нажать эту стрелочку и т. д.</text:p>
-   <text:list xml:id="list761248850" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list973106293" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3668,7 +3834,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Стиль <text:span text:style-name="T1">«Д_Основной_текст»</text:span> используется для оформления основного текста. Выделите текст, который не является заголовком, колонтитулом, подписью или сноской и примените к нему данный стиль.</text:p>
-   <text:list xml:id="list2052225124" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1765923247" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:h text:style-name="Д_5f_Заголовок_5f_1_20__28_С_20_разрывом_20_страницы_20_перед_29_" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__1746_2075059964"/>Вставка объектов<text:bookmark-end text:name="__RefHeading__1746_2075059964"/></text:h>
      <text:list>
@@ -3682,7 +3848,7 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст">Врезки являются очень важной функцией при работе с документами. Например, если вы добавляет название к рисунку, то он автоматически помещается во врезку.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Врезку могут содержать любые объекты ― текст, изображения, таблицы и т. д.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">В шаблоне используются врезки, чтобы задавать отступы между рисунком\таблицей и текстом.</text:p>
-   <text:list xml:id="list54098942" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list867331459" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4347,7 +4513,7 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст"><text:span text:style-name="T2">Затем выберите врезку (щелкните по рамке вокруг изображения левой кнопкой мыши) и выберите стиль </text:span><text:span text:style-name="T1">«Д_Врезка»</text:span><text:span text:style-name="T2">. При наличии пустого пространства во врезке, её нижнюю границу можно подтянуть вверх.</text:span></text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст"><text:span text:style-name="T2">Вокруг врезки указаны необходимые отступы до текста, равные двойному интервалу. Эти настройки вшиты в стиль </text:span><text:span text:style-name="T1">«Д_Врезка»</text:span><text:span text:style-name="T2">.</text:span></text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст"><text:span text:style-name="T2">Выделите подпись к рисунку и примените к ней стиль </text:span><text:span text:style-name="T1">«Д_Рисунок_Название»</text:span><text:span text:style-name="T2">.</text:span></text:p>
-   <text:list xml:id="list1430020687" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list2152361443" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4363,7 +4529,7 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст"><text:span text:style-name="T2">Теперь можно ссылаться на рисунок. Например, так: </text:span><text:span text:style-name="T2"><text:sequence-ref text:reference-format="category-and-value" text:ref-name="refDrawing2">3.1</text:sequence-ref></text:span><text:span text:style-name="T2"> или </text:span><text:span text:style-name="T2"><text:sequence-ref text:reference-format="text" text:ref-name="refDrawing2">Рисунок 3.1 ― Меню «Название»</text:sequence-ref></text:span><text:span text:style-name="T2">, или просто номер </text:span><text:span text:style-name="T2"><text:sequence-ref text:reference-format="value" text:ref-name="refDrawing2">3.1</text:sequence-ref></text:span><text:span text:style-name="T2">.</text:span></text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст"><text:span text:style-name="T2">Обратите внимание, что все эти ссылки обозначены серым фоном. Подробнее об этом читайте по ссылке </text:span><text:a xlink:type="simple" xlink:href="http://openite.com/ru/office/20"><text:span text:style-name="T1">http://openite.com/ru/office/20</text:span></text:a><text:a xlink:type="simple" xlink:href="http://openite.com/ru/office/2013/02/08/libreoffice-polya-s-dannymi.html"><text:span text:style-name="T1">­13/02/08/libreoffice-polya-s-dannymi.html</text:span></text:a><text:span text:style-name="T2">.</text:span></text:p>
    <text:p text:style-name="P3">Если нажать на эти серые надписи, прижимая клавишу «Ctrl», то произойдет переход <text:s/>к этому рисунку. А если где-то выше по тексту будет вставлен другой рисунок, то у последующих рисунков произойдет автоматическая смена нумерации. Автоматически изменятся и эти ссылки! Вот почему так важно грамотно делать названия рисункам, таблицам и прочим объектам.</text:p>
-   <text:list xml:id="list456439721" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1832132153" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4441,7 +4607,7 @@
       <text:p text:style-name="P12"/>
      </draw:text-box>
     </draw:frame><text:span text:style-name="T2">После вставки названия таблицы его нужно выделить и применить к нему стиль </text:span><text:span text:style-name="T1">«Д_Таблица_Название»</text:span><text:span text:style-name="T2">. Для текста внутри таблицы можно применить стиль </text:span><text:span text:style-name="T1">«Д_Таблица_Текст»</text:span><text:span text:style-name="T2">.</text:span></text:p>
-   <text:list xml:id="list997507460" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list184305857" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4455,7 +4621,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст"><text:span text:style-name="T2">Делаются через перекрёстные ссылки, читайте раздел </text:span><text:span text:style-name="T1">«</text:span><text:span text:style-name="T1"><text:bookmark-ref text:reference-format="number-all-superior" text:ref-name="__RefHeading__1086_1456780723">4.2</text:bookmark-ref></text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1"><text:bookmark-ref text:reference-format="text" text:ref-name="__RefHeading__1086_1456780723">Перекрёстные ссылки</text:bookmark-ref></text:span><text:span text:style-name="T1">»</text:span><text:span text:style-name="T2"> (Название раздела вставлено как перекрёстная ссылка ― ЖМИ!).</text:span></text:p>
-   <text:list xml:id="list1088576588" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1726224042" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4473,7 +4639,7 @@
        <table:table-column table:style-name="Таблица3.B"/>
        <table:table-row table:style-name="Таблица3.1">
         <table:table-cell table:style-name="Таблица3.A1" office:value-type="string">
-         <text:p text:style-name="P13"><draw:frame draw:style-name="fr5" draw:name="Objekt4" text:anchor-type="as-char" svg:y="-0.2827in" svg:width="3.4201in" svg:height="0.7465in" draw:z-index="10"><draw:object>
+         <text:p text:style-name="P13"><draw:frame draw:style-name="fr5" draw:name="Objekt4" text:anchor-type="as-char" svg:y="-0.2827in" svg:width="3.398in" svg:height="0.7563in" draw:z-index="10"><draw:object>
             <math xmlns="http://www.w3.org/1998/Math/MathML">
              <semantics>
               <mrow>
@@ -4577,123 +4743,123 @@
              </semantics>
             </math>
            </draw:object><draw:image>
-            <office:binary-data>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
+            <office:binary-data>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
-             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
+             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
-             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
+             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
-             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
+             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
-             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
+             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
             </office:binary-data>
            </draw:image>
           </draw:frame></text:p>
@@ -4707,7 +4873,7 @@
      </draw:text-box>
     </draw:frame><text:soft-page-break/>Вставится формула «E=mc<text:span text:style-name="T3">2</text:span>», она будет располагаться в таблице, в правом столбце которой будет стоять номер. Теперь на эту формулу можно ссылаться. Чтобы изменить формулу, дважды щелкните по ней. Подробнее читайте в <text:a xlink:type="simple" xlink:href="http://dl.dropbox.com/u/7334460/rrmanual/lo_diplom.pdf"><text:span text:style-name="T1">http://dl.dropbox.com/u/7334460/rrmanual/lo_diplom.pdf</text:span></text:a>.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Чтобы изменит формат номера формулы, так же дважды щелкните по нему.</text:p>
-   <text:list xml:id="list16786078221" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list20491789121" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5272,7 +5438,7 @@
        </draw:frame>Рисунок <text:sequence text:ref-name="refDrawing3" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">3.2</text:sequence> ― Какая-то диаграмма</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:list xml:id="list1230544906" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list12835469991" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:h text:style-name="Д_5f_Заголовок_5f_1_20__28_С_20_разрывом_20_страницы_20_перед_29_" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__1892_2075059964"/>Поля и перекрёстные ссылки<text:bookmark-end text:name="__RefHeading__1892_2075059964"/></text:h>
      <text:list>
@@ -5283,7 +5449,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Поля используются в документах для вставки меняющихся данных, таких как текущая дата или общее количество страниц в документе. <text:span text:style-name="T2">Подробнее об этом читайте по ссылке </text:span><text:a xlink:type="simple" xlink:href="http://openite.com/ru/office/20"><text:span text:style-name="T1">http://openite.com/ru/office/20</text:span></text:a><text:a xlink:type="simple" xlink:href="http://openite.com/ru/office/2013/02/08/libreoffice-polya-s-dannymi.html"><text:span text:style-name="T1">­13/02/08/libreoffice-polya-s-dannymi.html</text:span></text:a><text:span text:style-name="T2">.</text:span></text:p>
-   <text:list xml:id="list668614379" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list19008792011" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
