@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2015-03-23T19:17:29</meta:creation-date><meta:editing-duration>PT4H10M43S</meta:editing-duration><meta:editing-cycles>17</meta:editing-cycles><meta:generator>LibreOffice/3.5$Linux_X86_64 LibreOffice_project/350m1$Build-2</meta:generator><dc:description>Шаблон оформления диплома ВПИ (ф) ВолгГТУ</dc:description><meta:keyword>ВПИ (ф) ВолгГТУ</meta:keyword><dc:subject>Шаблон оформления диплома</dc:subject><dc:title>Шаблон оформления диплома</dc:title><dc:date>2015-04-09T19:15:19</dc:date><meta:document-statistic meta:table-count="6" meta:image-count="0" meta:object-count="63" meta:page-count="20" meta:paragraph-count="203" meta:word-count="3699" meta:character-count="27000" meta:non-whitespace-character-count="23402"/></office:meta>
+ <office:meta><meta:creation-date>2015-03-23T19:17:29</meta:creation-date><meta:editing-duration>PT4H12M59S</meta:editing-duration><meta:editing-cycles>18</meta:editing-cycles><meta:generator>LibreOffice/3.5$Linux_X86_64 LibreOffice_project/350m1$Build-2</meta:generator><dc:description>Шаблон оформления диплома ВПИ (ф) ВолгГТУ</dc:description><meta:keyword>ВПИ (ф) ВолгГТУ</meta:keyword><dc:subject>Шаблон оформления диплома</dc:subject><dc:title>Шаблон оформления диплома</dc:title><dc:date>2015-04-09T19:17:35</dc:date><meta:document-statistic meta:table-count="6" meta:image-count="0" meta:object-count="63" meta:page-count="20" meta:paragraph-count="203" meta:word-count="3699" meta:character-count="27000" meta:non-whitespace-character-count="23402"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="ViewAreaTop" config:type="long">69427</config:config-item>
@@ -1807,7 +1807,7 @@
      <dc:date>2015-03-22T00:38:08</dc:date>
      <text:p text:style-name="P67"><text:span text:style-name="T11">Определить критерий заранее</text:span></text:p>
     </office:annotation>оптимальным решением задачи редактирования текста в режиме реального времени.</text:p>
-   <text:list xml:id="list1592506916" text:continue-list="list1287953394" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1325903502" text:continue-list="list1287953394" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -1841,7 +1841,7 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст">Так же различные редакторы, очевидно, предоставляют различные возможности редактирования. Простые редакторы ограничиваются лишь вставками и удалением, а более современные предоставляют такие инструменты как множественные курсоры, авто-форматирование и пр. Поэтому используя данный подход, реализация синхронизации будет сильно зависеть от возможностей самого редактора, что является ограничивающим фактором.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Для данного подхода критично, в какой последовательности будут производиться вставки и удаления. Если в случае двух человек, это не является проблемой, то во время редактирования втроем, уже необходимо вводить дополнительные блокировки, чтобы обеспечить верную последовательность вставок-удалений, что приводит к задержкам.</text:p>
    <text:p text:style-name="P4">Таким образом можно сделать вывод, что передача команд не является хорошим (естественным) способом разрешить задачу синхронизации.</text:p>
-   <text:list xml:id="list1723310861" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list2117034668" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -1875,7 +1875,7 @@
       <dc:date>2015-03-22T13:22:19</dc:date>
       <text:p text:style-name="P68"><text:span text:style-name="T11">Обозначить требования теоретически</text:span></text:p>
      </office:annotation></text:span><text:span text:style-name="T2">все требования.</text:span></text:p>
-   <text:list xml:id="list517026018" text:continue-list="list1723310861" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list689154365" text:continue-list="list2117034668" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:h text:style-name="P28" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__1244_627238531"/>Улучшенная стратегия «копирование — изменение — слияние»<text:bookmark-end text:name="__RefHeading__1244_627238531"/></text:h>
     </text:list-item>
@@ -3299,7 +3299,7 @@
      <text:p text:style-name="P68"><text:span text:style-name="T11">Описать что такое дельта лучше и что такое конфликт в начале</text:span></text:p>
     </office:annotation>конфликта, необходим алгоритм, который бы мог применить дельту с нарушением контекста.</text:p>
    <text:p text:style-name="P4">К счастью, такой алгоритм существует и он называется Fuzzy Patch.</text:p>
-   <text:list xml:id="list2140677287" text:continue-list="list517026018" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1150415919" text:continue-list="list689154365" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3391,7 +3391,7 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст">Данная ситуация может натолкнуть на мысль, что вместо процедуры отбрасывания контекстных строк лучше найти место в тексте для которого минимален параметр: количество изменений которые надо допустить в тексте, чтобы он совпал с контекстом дельты. Назовем эти изменения ошибками.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Действительно, за параметр можно взять расстояние Левенштейна, которое и характеризует «похожесть» одной строки на другую. Если исходный текст к которому применяется дельта будет похож на контекст дельты, то расстояние Левенштейна будет маленьким.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Таким образом уже сейчас можно предложить наивный алгоритм, кото<text:soft-page-break/>рый может действовать следующим образом: допустить факт того, что в контексте одна ошибка, пройти весь текст, попытавшись применить его с одной ошибкой, и, если не получилось, то допустить 2 ошибки и так далее.</text:p>
-   <text:list xml:id="list2178333552" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1049491060" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3401,7 +3401,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Сюда надо будет напихать две картиночки и расследование того, какой же гребаный размер контекста стоит взять.</text:p>
-   <text:list xml:id="list1149210594" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list687081144" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -3565,7 +3565,7 @@
      </table:table-row>
     </table:table-header-rows>
    </table:table>
-   <text:p text:style-name="Д_5f_Основной_5f_текст">где <draw:frame draw:style-name="fr3" draw:name="Object42" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1535in" svg:height="0.1846in" draw:z-index="44"><draw:object>
+   <text:p text:style-name="Д_5f_Основной_5f_текст">где <draw:frame draw:style-name="fr3" draw:name="Object42" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1575in" svg:height="0.1846in" draw:z-index="44"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -3583,7 +3583,7 @@
        AP//AQBzAIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
-    </draw:frame> — это минимизируемый параметр, интуитивно характеризующий степень похожести; <draw:frame draw:style-name="fr3" draw:name="Object43" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1602in" svg:height="0.1846in" draw:z-index="45"><draw:object>
+    </draw:frame> — это минимизируемый параметр, интуитивно характеризующий степень похожести; <draw:frame draw:style-name="fr3" draw:name="Object43" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1626in" svg:height="0.1846in" draw:z-index="45"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -3601,7 +3601,7 @@
        AP//AQBlAIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
-    </draw:frame> — количество ошибок (расстояние Левенштейна); <draw:frame draw:style-name="fr3" draw:name="Object44" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1839in" svg:height="0.1846in" draw:z-index="46"><draw:object>
+    </draw:frame> — количество ошибок (расстояние Левенштейна); <draw:frame draw:style-name="fr3" draw:name="Object44" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1929in" svg:height="0.1846in" draw:z-index="46"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -3619,7 +3619,7 @@
        AP//AQBwAIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
-    </draw:frame> — длина подстроки; <draw:frame draw:style-name="fr3" draw:name="Object45" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1744in" svg:height="0.1846in" draw:z-index="47"><draw:object>
+    </draw:frame> — длина подстроки; <draw:frame draw:style-name="fr3" draw:name="Object45" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1827in" svg:height="0.1846in" draw:z-index="47"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -3629,15 +3629,15 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAc8BAADU
-       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAADOAQAA0wEAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAdABAADV
+       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAADPAQAA1AEAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5l
-       dyBSb21hbgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAZNMAAAAA
+       dyBSb21hbgAAAAAAAKcBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAZNQAAAAA
        AP//AQBkAIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
-    </draw:frame> — расстояние (в символах) найденной подстроки от предполагаемого места; <draw:frame draw:style-name="fr3" draw:name="Object46" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1374in" svg:height="0.1846in" draw:z-index="48"><draw:object>
+    </draw:frame> — расстояние (в символах) найденной подстроки от предполагаемого места; <draw:frame draw:style-name="fr3" draw:name="Object46" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.139in" svg:height="0.1846in" draw:z-index="48"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -3647,11 +3647,11 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAWABAADU
-       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAABfAQAA0wEAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAWABAADV
+       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAABfAQAA1AEAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5l
-       dyBSb21hbgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAdHUAAAAA
+       dyBSb21hbgAAAAAAAKcBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAdHYAAAAA
        AP//AQB0AIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
@@ -3665,11 +3665,11 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZwBAADU
-       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACbAQAA0wEAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZwBAADV
+       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACbAQAA1AEAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5l
-       dyBSb21hbgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAY7sAAAAA
+       dyBSb21hbgAAAAAAAKcBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAY7wAAAAA
        AP//AQBjAIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
@@ -3685,16 +3685,16 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZwBAADU
-       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACbAQAA0wEAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZwBAADV
+       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACbAQAA1AEAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5l
-       dyBSb21hbgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAY7sAAAAA
+       dyBSb21hbgAAAAAAAKcBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAY7wAAAAA
        AP//AQBjAIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
     </draw:frame> вводит соотношение между учитываемыми ошибками и <text:soft-page-break/>сдвигом.</text:p>
-   <text:p text:style-name="Д_5f_Основной_5f_текст">Еще одна переменная, которая может быть настроена это размер текста <draw:frame draw:style-name="fr3" draw:name="Object48" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1374in" svg:height="0.1846in" draw:z-index="49"><draw:object>
+   <text:p text:style-name="Д_5f_Основной_5f_текст">Еще одна переменная, которая может быть настроена это размер текста <draw:frame draw:style-name="fr3" draw:name="Object48" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.139in" svg:height="0.1846in" draw:z-index="49"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -3704,15 +3704,15 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAWABAADU
-       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAABfAQAA0wEAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAWABAADV
+       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAABfAQAA1AEAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5l
-       dyBSb21hbgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAdHUAAAAA
+       dyBSb21hbgAAAAAAAKcBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAdHYAAAAA
        AP//AQB0AIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
-    </draw:frame>. Минимум переменной <draw:frame draw:style-name="fr3" draw:name="Object49" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1374in" svg:height="0.1846in" draw:z-index="50"><draw:object>
+    </draw:frame>. Минимум переменной <draw:frame draw:style-name="fr3" draw:name="Object49" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.139in" svg:height="0.1846in" draw:z-index="50"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -3722,15 +3722,15 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAWABAADU
-       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAABfAQAA0wEAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAWABAADV
+       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAABfAQAA1AEAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5l
-       dyBSb21hbgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAdHUAAAAA
+       dyBSb21hbgAAAAAAAKcBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAdHYAAAAA
        AP//AQB0AIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
-    </draw:frame> можно ограничить для небольших файлов (из-за того, что изменения в нескольких символах могут привести слагаемое<draw:frame draw:style-name="fr3" draw:name="Object50" text:anchor-type="as-char" svg:y="-0.2437in" svg:width="0.2071in" svg:height="0.3929in" draw:z-index="51"><draw:object>
+    </draw:frame> можно ограничить для небольших файлов (из-за того, что изменения в нескольких символах могут привести слагаемое<draw:frame draw:style-name="fr3" draw:name="Object50" text:anchor-type="as-char" svg:y="-0.2437in" svg:width="0.2161in" svg:height="0.3937in" draw:z-index="51"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -3743,17 +3743,17 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAASMCAADm
-       AwAAHwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAAAiAgAA5QMAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAASQCAADo
+       AwAAHwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAAAjAgAA5wMAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5l
-       dyBSb21hbgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACfAAAAcgEAAAEAZNMAAAAA
+       dyBSb21hbgAAAAAAAKcBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACfAAAAcgEAAAEAZNQAAAAA
        AP//AQBkAIwAAQAAAAAAiwABAAIAAAAfAIUAAQAFAAAAAAAAAAGEAAEABQAAAAAAAAAAigAB
-       ADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACmAQAA//8AAAAABQAAAAAAAAD/AwAAAAAA
+       ADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACnAQAA//8AAAAABQAAAAAAAAD/AwAAAAAA
        AAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAGcAAQAQAAAA
-       hAAAANwBAAC0AQAA8AEAAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBBAAAAAwA7AAAADwBUaW1l
-       cyBOZXcgUm9tYW4AAAAAAACmAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACI
-       AAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAA1AAAAIQDAAABAHR1
+       hAAAAPcBAAC1AQAACwIAAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBBAAAAAwA7AAAADwBUaW1l
+       cyBOZXcgUm9tYW4AAAAAAACnAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACI
+       AAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAA1AAAAIQDAAABAHR2
        AAAAAAD//wEAdACMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
       </office:binary-data>
      </draw:image>
@@ -3811,7 +3811,7 @@
       </table:table>
       <text:p text:style-name="P14"/>
      </draw:text-box>
-    </draw:frame>В примере выше видно, что в каждой строке существуют границы слева и справа, дальше которых не имеет смысла искать, потому что все найденные вхождения вне этих границ будут заведомо с большим параметром <draw:frame draw:style-name="fr3" draw:name="Object60" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1535in" svg:height="0.1846in" draw:z-index="53"><draw:object>
+    </draw:frame>В примере выше видно, что в каждой строке существуют границы слева и справа, дальше которых не имеет смысла искать, потому что все найденные вхождения вне этих границ будут заведомо с большим параметром <draw:frame draw:style-name="fr3" draw:name="Object60" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1575in" svg:height="0.1846in" draw:z-index="53"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -3821,11 +3821,11 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZABAADU
-       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACPAQAA0wEAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZEBAADV
+       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACQAQAA1AEAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5l
-       dyBSb21hbgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAcgEAAAEAc6QAAAAA
+       dyBSb21hbgAAAAAAAKcBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAcgEAAAEAc6UAAAAA
        AP//AQBzAIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
@@ -3833,7 +3833,7 @@
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-24T11:31:59</dc:date>
      <text:p text:style-name="P68"><text:span text:style-name="T12">Повставлять графики функции</text:span></text:p>
-    </office:annotation>ицы можно вывести из формулы (<text:sequence-ref text:reference-format="value" text:ref-name="refText0">2.3.1</text:sequence-ref>), выделив <draw:frame draw:style-name="fr3" draw:name="Object51" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1744in" svg:height="0.1846in" draw:z-index="55"><draw:object>
+    </office:annotation>ицы можно вывести из формулы (<text:sequence-ref text:reference-format="value" text:ref-name="refText0">2.3.1</text:sequence-ref>), выделив <draw:frame draw:style-name="fr3" draw:name="Object51" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1827in" svg:height="0.1846in" draw:z-index="55"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -3843,15 +3843,15 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAc8BAADU
-       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAADOAQAA0wEAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAdABAADV
+       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAADPAQAA1AEAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5l
-       dyBSb21hbgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAZNMAAAAA
+       dyBSb21hbgAAAAAAAKcBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAZNQAAAAA
        AP//AQBkAIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
-    </draw:frame> при данных <draw:frame draw:style-name="fr3" draw:name="Object53" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1602in" svg:height="0.1846in" draw:z-index="56"><draw:object>
+    </draw:frame> при данных <draw:frame draw:style-name="fr3" draw:name="Object53" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1626in" svg:height="0.1846in" draw:z-index="56"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -3861,15 +3861,15 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZwBAADU
-       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACbAQAA0wEAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZwBAADV
+       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACbAQAA1AEAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5l
-       dyBSb21hbgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAZbsAAAAA
+       dyBSb21hbgAAAAAAAKcBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAcgEAAAEAZbwAAAAA
        AP//AQBlAIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
-    </draw:frame>и <draw:frame draw:style-name="fr3" draw:name="Object54" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1535in" svg:height="0.1846in" draw:z-index="61"><draw:object>
+    </draw:frame>и <draw:frame draw:style-name="fr3" draw:name="Object54" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1575in" svg:height="0.1846in" draw:z-index="61"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -3879,11 +3879,11 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZABAADU
-       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACPAQAA0wEAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZEBAADV
+       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACQAQAA1AEAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5l
-       dyBSb21hbgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAcgEAAAEAc6QAAAAA
+       dyBSb21hbgAAAAAAAKcBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAcgEAAAEAc6UAAAAA
        AP//AQBzAIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
@@ -3895,7 +3895,7 @@
     <table:table-header-rows>
      <table:table-row>
       <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-       <text:p text:style-name="P15"><draw:frame draw:style-name="fr3" draw:name="Object52" text:anchor-type="as-char" svg:y="-0.2437in" svg:width="1.4154in" svg:height="0.3937in" draw:z-index="54"><draw:object>
+       <text:p text:style-name="P15"><draw:frame draw:style-name="fr3" draw:name="Object52" text:anchor-type="as-char" svg:y="-0.2437in" svg:width="1.4354in" svg:height="0.3937in" draw:z-index="54"><draw:object>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
            <semantics>
             <mrow>
@@ -3941,55 +3941,55 @@
            </semantics>
           </math>
          </draw:object><draw:image>
-          <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAT0OAADm
-           AwAAegAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAAA8DgAA5QMAAJUA
+          <office:binary-data>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
-           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
+           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
-           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
+           AAAApwEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAF
+           AAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAHIBAABhAgAAAQAAAD0AUAEAAAAA//8BAD0A
+           jAABAAAAAACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACnAQAA
            //8AAAAABQAAAAAAAAD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////
-           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
+           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
-           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
+           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
-           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
+           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
-           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
+           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
-           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
+           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
-           AAAAcgACABoAAAD/BQAAhAMAAAIAcGOOAQAAAAD//wIAcABjAIwAAQAAAAAAiwABAAIAAAAf
-           AIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAApgEAAP//AAAAAAUAAAAAAAAA/wMA
+           AAAAcgACABoAAAD/BQAAhAMAAAIAcGOQAQAAAAD//wIAcABjAIwAAQAAAAAAiwABAAIAAAAf
+           AIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAApwEAAP//AAAAAAUAAAAAAAAA/wMA
            AAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIA
-           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
+           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
-           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
+           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
-           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
+           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
-           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
+           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
-           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
+           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
-           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
+           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
-           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
+           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
            AAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
           </office:binary-data>
          </draw:image>
@@ -4002,7 +4002,7 @@
      </table:table-row>
     </table:table-header-rows>
    </table:table>
-   <text:p text:style-name="Д_5f_Основной_5f_текст">Таким образом, для того, чтобы найти образец в строке с помощью нечеткого поиска, необходимо ограничить <draw:frame draw:style-name="fr3" draw:name="Object56" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1535in" svg:height="0.1846in" draw:z-index="57"><draw:object>
+   <text:p text:style-name="Д_5f_Основной_5f_текст">Таким образом, для того, чтобы найти образец в строке с помощью нечеткого поиска, необходимо ограничить <draw:frame draw:style-name="fr3" draw:name="Object56" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1575in" svg:height="0.1846in" draw:z-index="57"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -4012,15 +4012,15 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZABAADU
-       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACPAQAA0wEAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZEBAADV
+       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACQAQAA1AEAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5l
-       dyBSb21hbgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAcgEAAAEAc6QAAAAA
+       dyBSb21hbgAAAAAAAKcBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAcgEAAAEAc6UAAAAA
        AP//AQBzAIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
-    </draw:frame>каким-то числом <draw:frame draw:style-name="fr3" draw:name="Object57" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.2016in" svg:height="0.2098in" draw:z-index="58"><draw:object>
+    </draw:frame>каким-то числом <draw:frame draw:style-name="fr3" draw:name="Object57" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.2319in" svg:height="0.2098in" draw:z-index="58"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -4033,18 +4033,18 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAUwCAAAT
-       AgAAFgAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAABLAgAAEgIAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAU0CAAAU
+       AgAAFgAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAABMAgAAEwIAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5l
-       dyBSb21hbgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAcgEAAAEAc6QAAAAA
+       dyBSb21hbgAAAAAAAKcBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAcgEAAAEAc6UAAAAA
        AP//AQBzAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBBAAAAAwA7AAAADwBUaW1lcyBOZXcgUm9t
        YW4AAAAAAAD9AAAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
        hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAWAEAANwBAAABAGZGAAAAAAD//wEA
        ZgCMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
       </office:binary-data>
      </draw:image>
-    </draw:frame>, рассчитать для каждого найденного образца в предполагаемой окрестности (т. е. последовательно, для каждого <draw:frame draw:style-name="fr3" draw:name="Object55" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.8846in" svg:height="0.1846in" draw:z-index="59"><draw:object>
+    </draw:frame>, рассчитать для каждого найденного образца в предполагаемой окрестности (т. е. последовательно, для каждого <draw:frame draw:style-name="fr3" draw:name="Object55" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.8917in" svg:height="0.1846in" draw:z-index="59"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -4061,31 +4061,31 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAdYIAADU
-       AQAAMgAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAADVCAAA0wEAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAdgIAADV
+       AQAAMgAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAADXCAAA1AEAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5l
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
-       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
+       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
        AAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
       </office:binary-data>
      </draw:image>
      <svg:desc>formula</svg:desc>
-    </draw:frame>, ограничить область поиска левой и правой границей) <draw:frame draw:style-name="fr3" draw:name="Object58" text:anchor-type="as-char" svg:y="-0.1744in" svg:width="0.2547in" svg:height="0.2102in" draw:z-index="62"><draw:object>
+    </draw:frame>, ограничить область поиска левой и правой границей) <draw:frame draw:style-name="fr3" draw:name="Object58" text:anchor-type="as-char" svg:y="-0.1744in" svg:width="0.2626in" svg:height="0.2102in" draw:z-index="62"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -4104,11 +4104,11 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZkCAAAW
-       AgAAJAAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACYAgAAFQIAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZoCAAAX
+       AgAAJAAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACZAgAAFgIAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5l
-       dyBSb21hbgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAwgEAAAEAc6QAAAAA
+       dyBSb21hbgAAAAAAAKcBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAwgEAAAEAc6UAAAAA
        AP//AQBzAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAA
        AAAA/QAAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAF
        AAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAACMBAADuAAAAAQAAACgAVgAAAAAA//8BACgA
@@ -4122,7 +4122,7 @@
       </office:binary-data>
      </draw:image>
      <svg:desc>formula</svg:desc>
-    </draw:frame>по формуле (<text:sequence-ref text:reference-format="value" text:ref-name="refText0">2.3.1</text:sequence-ref>) . Выбрать лучшее вхождение с минимальным <draw:frame draw:style-name="fr3" draw:name="Object59" text:anchor-type="as-char" svg:y="-0.1744in" svg:width="0.2547in" svg:height="0.2102in" draw:z-index="60"><draw:object>
+    </draw:frame>по формуле (<text:sequence-ref text:reference-format="value" text:ref-name="refText0">2.3.1</text:sequence-ref>) . Выбрать лучшее вхождение с минимальным <draw:frame draw:style-name="fr3" draw:name="Object59" text:anchor-type="as-char" svg:y="-0.1744in" svg:width="0.2626in" svg:height="0.2102in" draw:z-index="60"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -4141,11 +4141,11 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZkCAAAW
-       AgAAJAAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACYAgAAFQIAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZoCAAAX
+       AgAAJAAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACZAgAAFgIAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5l
-       dyBSb21hbgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAwgEAAAEAc6QAAAAA
+       dyBSb21hbgAAAAAAAKcBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAwgEAAAEAc6UAAAAA
        AP//AQBzAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAA
        AAAA/QAAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAF
        AAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAACMBAADuAAAAAQAAACgAVgAAAAAA//8BACgA
@@ -4159,7 +4159,7 @@
       </office:binary-data>
      </draw:image>
     </draw:frame>.</text:p>
-   <text:p text:style-name="Д_5f_Основной_5f_текст">Поскольку априорной информации о том, каким числом <draw:frame draw:style-name="fr3" draw:name="Object61" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.2016in" svg:height="0.2098in" draw:z-index="63"><draw:object>
+   <text:p text:style-name="Д_5f_Основной_5f_текст">Поскольку априорной информации о том, каким числом <draw:frame draw:style-name="fr3" draw:name="Object61" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.2319in" svg:height="0.2098in" draw:z-index="63"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -4172,18 +4172,18 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAUwCAAAT
-       AgAAFgAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAABLAgAAEgIAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAU0CAAAU
+       AgAAFgAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAABMAgAAEwIAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5l
-       dyBSb21hbgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAcgEAAAEAc6QAAAAA
+       dyBSb21hbgAAAAAAAKcBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAcgEAAAEAc6UAAAAA
        AP//AQBzAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBBAAAAAwA7AAAADwBUaW1lcyBOZXcgUm9t
        YW4AAAAAAAD9AAAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
        hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAWAEAANwBAAABAGZGAAAAAAD//wEA
        ZgCMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
       </office:binary-data>
      </draw:image>
-    </draw:frame>надо ограничить у нас нет. То можно действовать следующим образом: найти первое вхождение подстроки, начиная искать с начала строки. Для найденного первого образца посчитать <draw:frame draw:style-name="fr3" draw:name="Object62" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1535in" svg:height="0.1846in" draw:z-index="64"><draw:object>
+    </draw:frame>надо ограничить у нас нет. То можно действовать следующим образом: найти первое вхождение подстроки, начиная искать с начала строки. Для найденного первого образца посчитать <draw:frame draw:style-name="fr3" draw:name="Object62" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1575in" svg:height="0.1846in" draw:z-index="64"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -4193,15 +4193,15 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZABAADU
-       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACPAQAA0wEAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZEBAADV
+       AQAADwAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAACQAQAA1AEAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5l
-       dyBSb21hbgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAcgEAAAEAc6QAAAAA
+       dyBSb21hbgAAAAAAAKcBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAcgEAAAEAc6UAAAAA
        AP//AQBzAIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
-    </draw:frame>по формуле (<text:sequence-ref text:reference-format="value" text:ref-name="refText0">2.3.1</text:sequence-ref>) и взять это значение как<draw:frame draw:style-name="fr3" draw:name="Object63" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.2016in" svg:height="0.2091in" draw:z-index="65"><draw:object>
+    </draw:frame>по формуле (<text:sequence-ref text:reference-format="value" text:ref-name="refText0">2.3.1</text:sequence-ref>) и взять это значение как<draw:frame draw:style-name="fr3" draw:name="Object63" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.2319in" svg:height="0.2098in" draw:z-index="65"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -4214,11 +4214,11 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAUwCAAAT
-       AgAAFgAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAABLAgAAEgIAAJUA
+      <office:binary-data>VkNMTVRGAgAyAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAU0CAAAU
+       AgAAFgAAAACWAAEAAgAAAAkAiwABAAIAAAD//4EAAQAQAAAAAAAAAAAAAABMAgAAEwIAAJUA
        AQAEAAAAAAAAAJYAAQACAAAACQCLAAEAAgAAAB8AigABAEEAAAADADsAAAAPAFRpbWVzIE5l
-       dyBSb21hbgAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
-       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAcgEAAAEAc6QAAAAA
+       dyBSb21hbgAAAAAAAKcBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAcgEAAAEAc6UAAAAA
        AP//AQBzAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBBAAAAAwA7AAAADwBUaW1lcyBOZXcgUm9t
        YW4AAAAAAAD9AAAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEA
        hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAWAEAANwBAAABAGZGAAAAAAD//wEA
