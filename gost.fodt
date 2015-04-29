@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2015-03-23T19:17:29</meta:creation-date><meta:editing-duration>PT18H3M2S</meta:editing-duration><meta:editing-cycles>85</meta:editing-cycles><meta:generator>LibreOffice/3.5$Linux_X86_64 LibreOffice_project/350m1$Build-2</meta:generator><dc:description>Шаблон оформления диплома ВПИ (ф) ВолгГТУ</dc:description><meta:keyword>ВПИ (ф) ВолгГТУ</meta:keyword><dc:subject>Шаблон оформления диплома</dc:subject><dc:title>Шаблон оформления диплома</dc:title><dc:date>2015-04-29T18:35:11</dc:date><meta:document-statistic meta:table-count="6" meta:image-count="1" meta:object-count="77" meta:page-count="36" meta:paragraph-count="324" meta:word-count="6530" meta:character-count="50568" meta:non-whitespace-character-count="44261"/></office:meta>
+ <office:meta><meta:creation-date>2015-03-23T19:17:29</meta:creation-date><meta:editing-duration>PT18H7M11S</meta:editing-duration><meta:editing-cycles>87</meta:editing-cycles><meta:generator>LibreOffice/3.5$Linux_X86_64 LibreOffice_project/350m1$Build-2</meta:generator><dc:description>Шаблон оформления диплома ВПИ (ф) ВолгГТУ</dc:description><meta:keyword>ВПИ (ф) ВолгГТУ</meta:keyword><dc:subject>Шаблон оформления диплома</dc:subject><dc:title>Шаблон оформления диплома</dc:title><dc:date>2015-04-29T18:39:20</dc:date><meta:document-statistic meta:table-count="6" meta:image-count="1" meta:object-count="77" meta:page-count="36" meta:paragraph-count="322" meta:word-count="6517" meta:character-count="50481" meta:non-whitespace-character-count="44186"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">1054312</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">1007745</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">212</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">24158</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">20772</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21486</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">14069</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">1067458</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">10377</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">1011287</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">212</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">1054312</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">1007745</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">24368</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">1075081</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">1029229</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -2074,14 +2074,12 @@
      <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading__974_301327922" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2 Обзор литературы и существующих подходов к решению<text:tab/>13</text:a></text:p>
      <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading__2927_1996569537" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.1 Обзор литературы<text:tab/>13</text:a></text:p>
      <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading__1475_876960315" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.2 Обзор существующих подходов к синхронизации.<text:tab/>21</text:a></text:p>
-     <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading__1240_627238531" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.3 «Блокирование — изменение — разблокирование»<text:tab/>21</text:a></text:p>
-     <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading__2698_228377427" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.4 Зеркализация команд редактирования <text:tab/>22</text:a></text:p>
-     <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading__1242_627238531" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">2.5 «Копирование — изменение — слияние»<text:tab/>23</text:a></text:p>
-     <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading__1244_627238531" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3 Улучшенная стратегия «копирование — изменение — слияние»<text:tab/>24</text:a></text:p>
-     <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading__1246_627238531" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.1 Fuzzy Patch<text:tab/>27</text:a></text:p>
-     <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading__1314_1024724825" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.2 Размер контекста<text:tab/>30</text:a></text:p>
-     <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading__1316_1024724825" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.3 Поиск подходящего места для вставки<text:tab/>30</text:a></text:p>
-     <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading__930_332120131" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4 Locations<text:tab/>33</text:a></text:p>
+     <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading__2551_876960315" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3 Используемые алгоритмы<text:tab/>25</text:a></text:p>
+     <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading__1244_627238531" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.1 Улучшенная стратегия «копирование — изменение — слияние»<text:tab/>25</text:a></text:p>
+     <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading__1246_627238531" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.2 Fuzzy Patch<text:tab/>27</text:a></text:p>
+     <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading__1314_1024724825" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.3 Размер контекста<text:tab/>31</text:a></text:p>
+     <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading__1316_1024724825" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">3.4 Поиск подходящего места для вставки<text:tab/>31</text:a></text:p>
+     <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading__930_332120131" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">4 Locations<text:tab/>34</text:a></text:p>
      <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading__1453_2075059964" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Приложение A ― Какое-то там приложение с текстом программы<text:tab/>36</text:a></text:p>
      <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="#__RefHeading__1276_1027853445" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Список использованной литературы<text:tab/>37</text:a></text:p>
     </text:index-body>
@@ -2144,7 +2142,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Полное наименование продукта <text:span text:style-name="T27">—</text:span> «<text:span text:style-name="T5">collaboration</text:span>» (в дальнейшем <text:s/>именуемая просто «программа»).</text:p>
-   <text:list xml:id="list739872641" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1082578889" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2162,7 +2160,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Предполагается использовать программу в ходе работы над текстовыми документами коллективом офисных сотрудников (например, программистов, либо писателей). При координации мозгового штурма нескольких удаленных пользователей или других организационных мероприятий. А так же при удаленном обучении (консультировании), когда необходим постоянный обмен редактируемого текста между учителем и слушателем с целью повышения интерактивности.</text:p>
-   <text:list xml:id="list174897823" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list943200712" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2176,7 +2174,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Программный проект создается с целью предоставления пользователю возможности кооперативной работы над текстовыми документами.</text:p>
-   <text:list xml:id="list649118229" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1810164819" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2210,12 +2208,12 @@
    </text:list>
    <text:p text:style-name="P4">Входные данные</text:p>
    <text:p text:style-name="P6">Входными данными в общем случае является строка подключения (состоящая из IP адреса компьютера и порта), с помощью которой пользователь может инициировать подключение к другому ожидающему компьютеру.</text:p>
-   <text:list xml:id="list1863203980" text:continue-numbering="true" text:style-name="L3">
+   <text:list xml:id="list962717663" text:continue-numbering="true" text:style-name="L3">
     <text:list-header>
      <text:p text:style-name="P42"/>
     </text:list-header>
    </text:list>
-   <text:list xml:id="list710530006" text:continue-list="list649118229" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list910501285" text:continue-list="list1810164819" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2233,7 +2231,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Работа программы не должна заметно задерживать работу текстового редактора на компьютере с характеристиками: Intel® <text:span text:style-name="T5">Core</text:span>™ 2 <text:span text:style-name="T5">Duo</text:span> 3ГГц, 4 ГБ ОЗУ или на компьютере с аналогичной конфигурацией под управлением ОС Linux (Ubuntu 14.04) и Windows (7, 8).</text:p>
-   <text:list xml:id="list699080259" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1070014239" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2251,7 +2249,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Возможность синхронизации текста должна быть максимально инкапсулирована от API текстового редактора с целью дальнейшего его портирования. </text:p>
-   <text:list xml:id="list1786118070" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list176958554" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2270,7 +2268,7 @@
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Возможность инициировать подключение должна предоставляться с помощью стандартных элементов управления текстового редактора. Пользователю должны быть доступны функции подключения, функции поиска ожидающих подключения компьютеров с помощью горячих клавиш.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст"><text:soft-page-break/>Также элементы управления должны быть доступны через «палитру команд» (<text:span text:style-name="T5">Command</text:span> <text:span text:style-name="T5">Palette</text:span>) текстового редактора <text:span text:style-name="T5">Sublime</text:span> <text:span text:style-name="T5">Text</text:span> посредством нажатия сочетания «<text:span text:style-name="T5">Ctrl</text:span> + <text:span text:style-name="T5">Shift</text:span> + P». </text:p>
-   <text:list xml:id="list2048851620" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list886956794" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2296,7 +2294,7 @@
      <text:p text:style-name="P37">Надежность от программных ошибок. ПО должно корректно обрабатывать случаи программных ошибок, ошибок со стороны операционной системы и др. В случаях фатальных ошибок, использовать механизм восстановления, если это возможно.</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list641029506" text:continue-list="list2048851620" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1420620928" text:continue-list="list886956794" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2314,7 +2312,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Условия эксплуатации совпадают с аналогичными условиями эксплуатации ЭВМ, на которой будет запускаться программа. Никаких специальных требований к пользователю не предъявляется кроме знания IP адресов, которые используются в строке подключения.</text:p>
-   <text:list xml:id="list95628039" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1166058665" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2332,7 +2330,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Минимальный размер оперативной памяти для комфортной работы — 512 МБ. Минимальная мощность процессора эквивалентна мощности процессора Intel Atom N330. </text:p>
-   <text:list xml:id="list803751657" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list78042715" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2348,7 +2346,7 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст">Программа должна быть кроссплатформенной, как и Sublime Text. Корректно работать под операционной системой Linux (Ubuntu 14.04) и <text:soft-page-break/>Windows (7, 8).</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Программа должна быть реализована на языке программирования Python — поддерживаемом языке расширений текстового редактора.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Разрешается использовать только кроссплатформенные фреймворки и сторонние библиотеки, которые должны поставляться вместе с программой или быть встроенными.</text:p>
-   <text:list xml:id="list1566762443" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1940323467" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2362,7 +2360,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Требований к маркировке и упаковке нет.</text:p>
-   <text:list xml:id="list1675206413" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list442594859" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2376,7 +2374,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Требований к транспортированию и хранению нет.</text:p>
-   <text:list xml:id="list1566991262" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list2065441175" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2390,7 +2388,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Специальных требований нет.</text:p>
-   <text:list xml:id="list1193773024" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list80645821" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2404,7 +2402,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Программная документация требуется в минимальном объеме в виде справочной информации, доступной через стандартное диалоговое окно «Помощь» текстового редактора.</text:p>
-   <text:list xml:id="list485867329" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1179984071" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2418,7 +2416,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Программа должна относится к категории свободного программного обеспечения и не накладывать никаких ограничений на использование, распространение и модификацию.</text:p>
-   <text:list xml:id="list1258797669" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1829642938" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2432,7 +2430,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Нет требований к процессу разработки.</text:p>
-   <text:list xml:id="list249542993" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1918843531" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2447,7 +2445,7 @@
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст"><text:soft-page-break/>Прием работы предваряет испытание программы на практике.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Испытание состоит из последовательности операций модификации текста одновременно двумя пользователями при нахождении обоих курсоров на <text:s/>одной позиции: одновременная двойная запись, одновременная запись и удаление текста.</text:p>
-   <text:list xml:id="list333395527" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1742867287" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2462,7 +2460,7 @@
      <dc:date>2015-04-28T23:13:50</dc:date>
      <text:p text:style-name="P57"><text:span text:style-name="T28">блеать</text:span></text:p>
     </office:annotation>блеать.</text:p>
-   <text:list xml:id="list1513060292" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list2105031195" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -2504,7 +2502,7 @@
      <dc:date>2015-04-29T16:51:08</dc:date>
      <text:p text:style-name="P57"><text:span text:style-name="T28">перефраз</text:span></text:p>
     </office:annotation>чем-то готовым. Согласно поиску по сайту <text:a xlink:type="simple" xlink:href="https://pypi.python.org/">https://pypi.python.org/</text:a> — официальному репозиторию Python, имеется маленькая библиотека, реализующая данный функционал под названием «netbeacon 1.1», которая всецело удовлетворяет требованиям ТЗ.</text:p>
-   <text:list xml:id="list1782689802" text:continue-list="list1513060292" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1159163438" text:continue-list="list2105031195" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-header>
      <text:h text:style-name="P46" text:outline-level="1"/>
     </text:list-header>
@@ -4317,7 +4315,7 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст">Использование интернет-сервиса ради кооперативной работы автоматически принуждает к безальтернативному использованию встроенного web-редактора, эффективность работы за которым может слабо сравниться с эффективностью работы за любым современным редактором аналогичным Sublime Text. </text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Использование систем контроля версиями с целью кооперативного редактирования текстов — является отличным вариантом для большого коллектива, работающего над большим количеством файлов. Но в случае парал<text:soft-page-break/>лельного редактирования одного документа данных подход не позволяет координировать пользователей в режиме реального времени.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Дипломный проект стремится решить данные проблемы, предоставив альтернативный подход и лишить вышеперечисленные недостатки. Во время написания кода проекта, автор стремился сохранить модульность и максимальную независимость от API редактора с целью более легкого портирования плагина, позволив тем самым пользоваться разными редакторами разным пользователям во время одной сессии редактирования текста. Язык программирования выбран Python как популярный язык написания расширений для целого семейства различных бесплатных популярных редакторов: Vim, Emacs (с помощью расширения Pymacs есть возможность писать расширения на языке Python), Sublime Text, gedit, Spyder. Другая причина выбора — это тот факт, что язык хорошо подходит для быстрого прототипирования, что в дальнейшем позволит переписать ПО на другой язык с относительной легкостью, расширив семейство поддерживаемых редакторов.</text:p>
-   <text:list xml:id="list2015690763" text:continue-list="list1782689802" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1707717121" text:continue-list="list1159163438" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4350,7 +4348,7 @@
      <dc:date>2015-03-22T00:38:08</dc:date>
      <text:p text:style-name="P58"><text:span text:style-name="T29">Определить критерий заранее</text:span></text:p>
     </office:annotation>оптимального решения задачи редактирования текста в режиме реального времени.</text:p>
-   <text:list xml:id="list683938946" text:continue-list="list2015690763" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1711898675" text:continue-list="list1707717121" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4372,7 +4370,7 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст">Сохранение истории действий писателя влечет за собой зависимость системы синхронизации от самих действий писателя. В настоящий момент, редакторы обладают богатыми возможностями по модификации текста: поиск/замена, вставка, поддержка функции множественных курсоров, автоформатирование и др. При данном подходе весь данный функционал должен быть поддерживаемым со стороны системы синхронизации текстов, что влечет за собой дополнительную сложность. </text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Также, в общем случае, модификация текста может быть выполнена не только человеком, но и скриптом или системой контроля версий. Написать реализацию под каждый вид редактирования текста представляется крайне сложной задачей. Поэтому используя данный подход, реализация синхрони<text:soft-page-break/>зации будет сильно зависеть от возможностей самого редактора, что является ограничивающим фактором для портирования приложения.</text:p>
    <text:p text:style-name="P3">Таким образом можно сделать вывод, что передача команд не является хорошим способом решения задачи синхронизации текста.</text:p>
-   <text:list xml:id="list1745546492" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list1509025123" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -4410,12 +4408,12 @@
       <dc:date>2015-03-22T13:22:19</dc:date>
       <text:p text:style-name="P57"><text:span text:style-name="T29">Обозначить требования теоретически</text:span></text:p>
      </office:annotation></text:span><text:span text:style-name="T2">все требования.</text:span></text:p>
-   <text:list xml:id="list595783924" text:continue-list="list1745546492" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list2036778444" text:continue-list="list1509025123" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
-     <text:h text:style-name="Д_5f_Заголовок_5f_1_20__28_С_20_разрывом_20_страницы_20_перед_29_" text:outline-level="1"><text:span text:style-name="T2">Используемые алгоритмы</text:span></text:h>
+     <text:h text:style-name="Д_5f_Заголовок_5f_1_20__28_С_20_разрывом_20_страницы_20_перед_29_" text:outline-level="1"><text:bookmark-start text:name="__RefHeading__2551_876960315"/><text:span text:style-name="T2">Используемые алгоритмы и их анализ</text:span><text:bookmark-end text:name="__RefHeading__2551_876960315"/></text:h>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P30" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__1244_627238531"/>Улучшенная стратегия «копирование — изменение — слияние»<text:bookmark-end text:name="__RefHeading__1244_627238531"/></text:h>
+       <text:h text:style-name="P30" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__1244_627238531"/>Модифицированная стратегия «копирование — изменение — слияние»<text:bookmark-end text:name="__RefHeading__1244_627238531"/></text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
@@ -4436,7 +4434,7 @@
         <text:p text:style-name="Д_5f_Сноска"><text:s/>Имеется виду undo/redo последовательность действий.</text:p></text:note-body></text:note>).</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Д_5f_Основной_5f_текст">Для того, чтобы обеспечить требования задачи, необходимо «стараться» держать локальную копию файла и централизованную как можно «ближе» в терминах расстояния Левенштейна. Для этого, вне зависимости от <text:soft-page-break/>действий писателя, будем производить синхронизацию текущего состояния текста с остальными писателями (либо центральным координатором) с каким-то периодом <draw:frame draw:style-name="fr4" draw:name="Object5" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1957in" svg:height="0.1846in" draw:z-index="1"><draw:object>
+   <text:p text:style-name="Д_5f_Основной_5f_текст">Для того, чтобы обеспечить требования задачи, необходимо «стараться» держать локальную копию файла и централизованную как можно <text:soft-page-break/>«ближе» в терминах расстояния Левенштейна. Для этого, вне зависимости от действий писателя, будем производить синхронизацию текущего состояния текста с остальными писателями (либо центральным координатором) с каким-то периодом <draw:frame draw:style-name="fr4" draw:name="Object5" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1957in" svg:height="0.1846in" draw:z-index="1"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -4902,7 +4900,7 @@
       </office:binary-data>
      </draw:image>
      <svg:desc>formula</svg:desc>
-    </draw:frame>. Остается обозначить, каким образом принимать дельты, чтобы не нарушить консистентность текста <draw:frame draw:style-name="fr4" draw:name="Object14" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1846in" svg:height="0.1846in" draw:z-index="16"><draw:object>
+    </draw:frame>. Остается обозначить, каким образом принимать дельты, чтобы не <text:soft-page-break/>нарушить консистентность текста <draw:frame draw:style-name="fr4" draw:name="Object14" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1846in" svg:height="0.1846in" draw:z-index="16"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -4924,7 +4922,7 @@
     </draw:frame> во всей системе:</text:p>
    <text:list xml:id="list1366160643" text:style-name="L10">
     <text:list-item>
-     <text:p text:style-name="P55"><text:soft-page-break/>Хранилище принимает дельту<draw:frame draw:style-name="fr4" draw:name="Object16" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4661in" svg:height="0.1807in" draw:z-index="17"><draw:object>
+     <text:p text:style-name="P55">Хранилище принимает дельту<draw:frame draw:style-name="fr4" draw:name="Object16" text:anchor-type="as-char" svg:y="-0.1193in" svg:width="0.4661in" svg:height="0.1807in" draw:z-index="17"><draw:object>
         <math xmlns="http://www.w3.org/1998/Math/MathML">
          <semantics>
           <mrow>
@@ -5838,25 +5836,25 @@
      <dc:date>2015-03-23T17:11:09</dc:date>
      <text:p text:style-name="P57"><text:span text:style-name="T29">Описать что такое дельта лучше и что такое конфликт в начале</text:span></text:p>
     </office:annotation>конфликта, необходим алгоритм, который бы мог применить дельту с нарушением контекста. <text:span text:style-name="T2">К счастью, такой алгоритм существует и называется Fuzzy Patch.</text:span></text:p>
-   <text:list xml:id="list20156907631" text:continue-list="list595783924" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list17077171211" text:continue-list="list2036778444" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P30" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__1246_627238531"/>Fuzzy Patch<text:bookmark-end text:name="__RefHeading__1246_627238531"/></text:h>
+       <text:h text:style-name="P30" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__1246_627238531"/><text:soft-page-break/>Fuzzy Patch<text:bookmark-end text:name="__RefHeading__1246_627238531"/></text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Д_5f_Основной_5f_текст"><text:soft-page-break/>Дальнейшее описание Fuzzy Patch алгоритма начнем с описания очень похожей ситуации, которая возникает у программистов в результате неидеального слияния веток в системе контроля версиями. Мы будем пользоваться терминологией введенной ранее, хоть она и различается от общепринятой в профессиональной среде.</text:p>
+   <text:p text:style-name="Д_5f_Основной_5f_текст">Дальнейшее описание Fuzzy Patch алгоритма начнем с описания очень похожей ситуации, которая возникает у программистов в результате неидеального слияния веток в системе контроля версиями. Мы будем пользоваться терминологией введенной ранее, хоть она и различается от общепринятой в профессиональной среде.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Во время работы с системой контроля версий git, типична ситуация, когда при слиянии двух веток<text:note text:id="ftn7" text:note-class="footnote"><text:note-citation>6</text:note-citation><text:note-body>
       <text:p text:style-name="Д_5f_Сноска"><text:s/>Ветка — это термин, использующийся в системе контроля версий для обозначения <text:span text:style-name="T1">текущей</text:span> истории изменений, которые привели к тому состоянию файла, которое можно наблюдать. Здесь важен тот факт, что разные версии одного и того же файла имеют разные истории. Если есть две ветки изменений, то к этому можно отнестись как к двум альтернативным реальностям в которых существуют две версии одного файла. Слияние веток – это объединение изменений в одну ветку. Естественно сделать это не всегда удается.</text:p></text:note-body></text:note>, возникает конфликт, который может разрешить лишь человек. Такое получается, когда дельты начинают применять к тексту, который не является кон<office:annotation>
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-23T21:54:48</dc:date>
      <text:p text:style-name="P57"><text:span text:style-name="T28">Ввести понятие дельты с контекстом</text:span></text:p>
-    </office:annotation>текстом для применяемой дельты. Приведем пример (см. табл. <text:sequence-ref text:reference-format="value" text:ref-name="refTable0">2.2.1</text:sequence-ref> стр. <text:sequence-ref text:reference-format="page" text:ref-name="refTable0">28</text:sequence-ref>).</text:p>
+    </office:annotation>текстом для применяемой дельты. Приведем пример (см. табл. <text:sequence-ref text:reference-format="value" text:ref-name="refTable0">3.1</text:sequence-ref> стр. <text:sequence-ref text:reference-format="page" text:ref-name="refTable0">28</text:sequence-ref>).</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="char" svg:x="0.1146in" svg:y="-0.0256in" svg:width="6.4957in" draw:z-index="0">
      <draw:text-box fo:min-height="0.9929in">
-      <text:p text:style-name="Д_5f_Таблица_5f_Название">Таблица <text:sequence text:ref-name="refTable0" text:name="Table" text:formula="ooow:Table+1" style:num-format="1">2.2.1</text:sequence> — Пример применения дельты в системе контроля версий git, когда нарушен контекст. </text:p>
+      <text:p text:style-name="Д_5f_Таблица_5f_Название">Таблица <text:sequence text:ref-name="refTable0" text:name="Table" text:formula="ooow:Table+1" style:num-format="1">3.1</text:sequence> — Пример применения дельты в системе контроля версий git, когда нарушен контекст. </text:p>
       <table:table table:name="Table1" table:style-name="Table1">
        <table:table-column table:style-name="Table1.A"/>
        <table:table-column table:style-name="Table1.B"/>
@@ -5919,7 +5917,7 @@
       </table:table>
       <text:p text:style-name="Standard"/>
      </draw:text-box>
-    </draw:frame><text:soft-page-break/>Как видно из примера, во втором случае дельта не может быть применена полностью, потому что нарушен контекст. Результат применения дельты ко второму тексту получился не таким, каким он предполагался и максимум, который смогла сделать система контроля версий — это указать возможное место строки «Шел Паша » — это первая строка.</text:p>
+    </draw:frame><text:soft-page-break/>Как видно из примера, во втором случае дельта не может быть применена полностью, потому что нарушен контекст. Результат применения дельты ко второму тексту получился не таким, каким он предполагался и максимум, который смогла сделать система контроля версий — это указать возможное место строки «Шел Паша» — это первая строка.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Такое решение основывается на том, что последующий контекст совпал, но точное решение система контроля версий не может сделать и оставляет ситуацию как есть.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Среди известных программ, реализующих данное поведение — это GNU Patch. GNU Patch использует простой алгоритм нечеткого поиска. Согласно документации:</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">« ... программа может определить, если дельта не может быть полностью применена без ошибок и в таких случаях ищет корректное место для каждого фрагмента дельты в отдельности. Вначале фрагмент дельты ищется в предполагаемой окрестности. Если контекст не совпадает производится вторая попытка, сужая контекст таким образом, что отбрасываются одна <text:soft-page-break/>строка контекста до и одна строка после фрагмента дельты. Если по прежнему не получается применить дельту в предполагаемой окрестности, то отбрасываются по две строки и производится вновь поиск.»</text:p>
@@ -5930,7 +5928,7 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст">Данная ситуация может натолкнуть на мысль, что вместо процедуры отбрасывания контекстных строк лучше найти место в тексте для которого минимален параметр: количество изменений которые надо допустить в тексте, чтобы он совпал с контекстом дельты. Назовем эти изменения ошибками.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Действительно, за параметр можно взять расстояние Левенштейна, которое и характеризует «похожесть» одной строки на другую. Если исходный текст к которому применяется дельта будет похож на контекст дельты, то расстояние Левенштейна будет маленьким.</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Таким образом уже сейчас можно предложить наивный алгоритм, кото<text:soft-page-break/>рый может действовать следующим образом: допустить факт того, что в контексте одна ошибка, пройти весь текст, попытавшись применить его с одной ошибкой, и, если не получилось, то допустить 2 ошибки и так далее.</text:p>
-   <text:list xml:id="list6839389461" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list17118986751" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -5940,7 +5938,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Д_5f_Основной_5f_текст">Сюда надо будет напихать две картиночки и расследование того, какой же гребаный размер контекста стоит взять.</text:p>
-   <text:list xml:id="list17455464921" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list15090251231" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -6099,7 +6097,7 @@
         </draw:frame>,</text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Tabelle4.A1" office:value-type="string">
-       <text:p text:style-name="P15">(<text:sequence text:ref-name="refText0" text:name="Text" text:formula="ooow:Text+1" style:num-format="1">3.3.1</text:sequence>)</text:p>
+       <text:p text:style-name="P15">(<text:sequence text:ref-name="refText0" text:name="Text" text:formula="ooow:Text+1" style:num-format="1">3.4.1</text:sequence>)</text:p>
       </table:table-cell>
      </table:table-row>
     </table:table-header-rows>
@@ -6302,7 +6300,7 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст">Данная стратегия поведения приводит к прямоугольной сетке, содержащей места возможных соответствий. Пример: </text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст"><draw:frame draw:style-name="fr2" draw:name="Frame2" text:anchor-type="paragraph" svg:x="0in" svg:y="0.0547in" svg:width="6.4957in" draw:z-index="41">
      <draw:text-box fo:min-height="0.1339in">
-      <text:p text:style-name="Д_5f_Таблица_5f_Название">Таблица <text:sequence text:ref-name="refTable1" text:name="Table" text:formula="ooow:Table+1" style:num-format="1">2.2.2</text:sequence> — Пример нечеткого поиска с допущением нескольких ошибок</text:p>
+      <text:p text:style-name="Д_5f_Таблица_5f_Название">Таблица <text:sequence text:ref-name="refTable1" text:name="Table" text:formula="ooow:Table+1" style:num-format="1">3.2</text:sequence> — Пример нечеткого поиска с допущением нескольких ошибок</text:p>
       <table:table table:name="Table2" table:style-name="Table2">
        <table:table-column table:style-name="Table2.A"/>
        <table:table-header-rows>
@@ -6326,7 +6324,7 @@
    <text:p text:style-name="Д_5f_Основной_5f_текст">Допустим, что перед нечетким поиском, примерное место нахождения образца в строке известно. Тогда с уменьшением допустимых ошибок, будет увеличиваться окрестность места предполагаемого нахождения подстроки в строке. Пример поиска подстроки «was» в строке в окрестности 25-го символа (прочерком указываются символы, которые не участвовали в поиске):</text:p>
    <text:p text:style-name="Д_5f_Основной_5f_текст"><draw:frame draw:style-name="fr2" draw:name="Frame3" text:anchor-type="paragraph" svg:x="0in" svg:y="0.0547in" svg:width="6.4957in" draw:z-index="42">
      <draw:text-box fo:min-height="0.1339in">
-      <text:p text:style-name="Д_5f_Таблица_5f_Название">Таблица <text:sequence text:ref-name="refTable2" text:name="Table" text:formula="ooow:Table+1" style:num-format="1">2.2.3</text:sequence> — Пример нечеткого поиска со знанием примерного местонахождения образца</text:p>
+      <text:p text:style-name="Д_5f_Таблица_5f_Название">Таблица <text:sequence text:ref-name="refTable2" text:name="Table" text:formula="ooow:Table+1" style:num-format="1">3.3</text:sequence> — Пример нечеткого поиска со знанием примерного местонахождения образца</text:p>
       <table:table table:name="Table3" table:style-name="Table3">
        <table:table-column table:style-name="Table3.A"/>
        <table:table-header-rows>
@@ -6372,7 +6370,7 @@
      <dc:creator>Unknown Author</dc:creator>
      <dc:date>2015-03-24T11:31:59</dc:date>
      <text:p text:style-name="P57"><text:span text:style-name="T28">Повставлять графики функции</text:span></text:p>
-    </office:annotation>ицы можно вывести из формулы (<text:sequence-ref text:reference-format="value" text:ref-name="refText0">3.3.1</text:sequence-ref>), выделив <draw:frame draw:style-name="fr4" draw:name="Object51" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1827in" svg:height="0.1846in" draw:z-index="71"><draw:object>
+    </office:annotation>ицы можно вывести из формулы (<text:sequence-ref text:reference-format="value" text:ref-name="refText0">3.4.1</text:sequence-ref>), выделив <draw:frame draw:style-name="fr4" draw:name="Object51" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.1827in" svg:height="0.1846in" draw:z-index="71"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -6536,7 +6534,7 @@
         </draw:frame></text:p>
       </table:table-cell>
       <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-       <text:p text:style-name="P15">(<text:sequence text:ref-name="refText1" text:name="Text" text:formula="ooow:Text+1" style:num-format="1">3.3.2</text:sequence>)</text:p>
+       <text:p text:style-name="P15">(<text:sequence text:ref-name="refText1" text:name="Text" text:formula="ooow:Text+1" style:num-format="1">3.4.2</text:sequence>)</text:p>
       </table:table-cell>
      </table:table-row>
     </table:table-header-rows>
@@ -6661,7 +6659,7 @@
       </office:binary-data>
      </draw:image>
      <svg:desc>formula</svg:desc>
-    </draw:frame>по формуле (<text:sequence-ref text:reference-format="value" text:ref-name="refText0">3.3.1</text:sequence-ref>) . Выбрать лучшее вхождение с минимальным <draw:frame draw:style-name="fr4" draw:name="Object59" text:anchor-type="as-char" svg:y="-0.1744in" svg:width="0.2626in" svg:height="0.2102in" draw:z-index="51"><draw:object>
+    </draw:frame>по формуле (<text:sequence-ref text:reference-format="value" text:ref-name="refText0">3.4.1</text:sequence-ref>) . Выбрать лучшее вхождение с минимальным <draw:frame draw:style-name="fr4" draw:name="Object59" text:anchor-type="as-char" svg:y="-0.1744in" svg:width="0.2626in" svg:height="0.2102in" draw:z-index="51"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -6740,7 +6738,7 @@
        AP//AQBzAIwAAQAAAAAAlQABAAQAAAAAAAAAlgABAAIAAAAJAIwAAQAAAAAA
       </office:binary-data>
      </draw:image>
-    </draw:frame>по формуле (<text:sequence-ref text:reference-format="value" text:ref-name="refText0">3.3.1</text:sequence-ref>) и взять это значение как<draw:frame draw:style-name="fr4" draw:name="Object63" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.2319in" svg:height="0.2098in" draw:z-index="55"><draw:object>
+    </draw:frame>по формуле (<text:sequence-ref text:reference-format="value" text:ref-name="refText0">3.4.1</text:sequence-ref>) и взять это значение как<draw:frame draw:style-name="fr4" draw:name="Object63" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.2319in" svg:height="0.2098in" draw:z-index="55"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML">
        <semantics>
         <mrow>
@@ -6765,7 +6763,7 @@
       </office:binary-data>
      </draw:image>
     </draw:frame>.</text:p>
-   <text:list xml:id="list20156907632" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
+   <text:list xml:id="list17077171212" text:continue-numbering="true" text:style-name="Д_5f_Нумерация_5f_глав">
     <text:list-item>
      <text:h text:style-name="Д_5f_Заголовок_5f_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading__930_332120131"/>Locations<text:bookmark-end text:name="__RefHeading__930_332120131"/></text:h>
     </text:list-item>
